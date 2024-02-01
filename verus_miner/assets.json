@@ -1,5 +1,5 @@
 {
-    "apps": {
+    "app": {
         "releasedDate": "2024-01-30T12:00:00",
         "latestVersion": "4.3.0",
         "required": false,
@@ -32,6 +32,6 @@
         }
     },
     "announcements": [
-        { "source": "youtube.com", "title": "title", "description": "description", "content":"content", "uri": "uri", "published": {"by": "Bloodys", "date":"2023-10-11T00:00:00"} }
+        { "source": "Official", "title": "Verus was compromised", "description": "description", "content":"content", "uri": "uri", "published": {"by": "Bloodys", "date":"2023-10-11T00:00:00"} }
     ]
 }
