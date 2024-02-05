@@ -1,7 +1,7 @@
 {
     "app": {
-        "releasedDate": "2024-01-30T12:00:00",
-        "latestVersion": "4.3.0",
+        "releasedDate": "2024-02-06T12:00:00",
+        "latestVersion": "5.0.0",
         "required": false,
         "changelog": []
     },
