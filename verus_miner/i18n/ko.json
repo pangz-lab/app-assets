@@ -439,5 +439,13 @@
   "quickstart.start_miner_body": "마이너를 실행해 보상을 받기 시작하세요. ‘CPU’를 높이면 해시레이트가 올라갑니다.\n\n화면이 꺼진 상태에서도 백그라운드로 실행하려면 오버레이와 백그라운드 프로세스를 사용하세요.",
   "app.custom_wallet_notice": "사용자 지정 지갑 주소는 완전히 지원되지 않습니다.\n\n검증할 수 없으므로 비 Verus 지갑 주소 사용은 강력히 권장하지 않습니다.\n\n올바른 주소라고 확신하면 신중히 진행하고, 주소가 올바르게 생성되었거나 신뢰할 수 있는 출처인지 확인하세요. 그렇지 않으면 설정을 업데이트하세요.",
   "app.no_tx_notice": "거래가 없습니다. 새롭고 안전하게 생성된 주소라고 확신하면 다시 확인한 뒤 작업을 계속하세요.",
-  "app.dev_fee_label": "시간당 30초 마이닝"
+  "app.dev_fee_label": "시간당 30초 마이닝",
+  "screen.device_information": "기기 정보",
+  "screen.mining_history": "마이닝 기록",
+  "community.subscribe_body": "아래 링크를 구독하여 Verus 커뮤니티의 최신 소식과 업데이트를 받아보세요.",
+  "miner_setting.list_header": "마이너 설정",
+  "miner.start": "시작",
+  "miner.view_status": "상태 보기",
+  "miner.initializing": "초기화 중…",
+  "miner.stop_mining": ">>>    마이닝 중지"
 }
