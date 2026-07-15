@@ -439,5 +439,13 @@
   "quickstart.start_miner_body": "マイナーを動かして報酬を稼ぎ始めます。「CPU」を上げるとハッシュレートが高くなります。\n\n画面オフ時のバックグラウンド実行のため、オーバーレイとバックグラウンド処理を有効にしてください。",
   "app.custom_wallet_notice": "カスタムウォレットアドレスは完全にはサポートされていません。\n\n検証できないため、非 Verus ウォレットアドレスの使用は強く非推奨です。\n\n正しいと確信する場合は慎重に続行し、アドレスが正しく生成されているか信頼できるソース由来であることを確認してください。そうでなければ設定を更新してください。",
   "app.no_tx_notice": "トランザクションは見つかりませんでした。新しく安全に生成されたアドレスだと確信する場合は、再確認のうえ操作を続行してください。",
-  "app.dev_fee_label": "1 時間あたり 30 秒のマイニング"
+  "app.dev_fee_label": "1 時間あたり 30 秒のマイニング",
+  "screen.device_information": "端末情報",
+  "screen.mining_history": "マイニング履歴",
+  "community.subscribe_body": "以下のリンクを購読して、Verus コミュニティからの最新ニュースと更新情報を受け取りましょう。",
+  "miner_setting.list_header": "マイナー設定",
+  "miner.start": "開始",
+  "miner.view_status": "ステータス表示",
+  "miner.initializing": "初期化中…",
+  "miner.stop_mining": ">>>    マイニング停止"
 }

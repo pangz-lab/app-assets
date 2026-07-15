@@ -439,5 +439,13 @@
   "quickstart.start_miner_body": "运行矿工开始获得奖励。可提高「CPU」以获得更高算力。\n\n请开启悬浮窗与后台进程，以便息屏时继续运行。",
   "app.custom_wallet_notice": "自定义钱包地址未完全支持。\n\n强烈不建议使用非 Verus 钱包地址，因无法验证。\n\n若确认正确，请谨慎继续并确保地址来自可信来源，否则请更新设置。",
   "app.no_tx_notice": "未找到交易记录；若确认为新安全生成的地址，请复查后继续操作。",
-  "app.dev_fee_label": "每小时 30 秒开发费挖矿"
+  "app.dev_fee_label": "每小时 30 秒开发费挖矿",
+  "screen.device_information": "设备信息",
+  "screen.mining_history": "挖矿历史",
+  "community.subscribe_body": "订阅以下链接，直接获取 Verus 社区的最新新闻与更新。",
+  "miner_setting.list_header": "矿工设置",
+  "miner.start": "开始",
+  "miner.view_status": "查看状态",
+  "miner.initializing": "初始化中…",
+  "miner.stop_mining": ">>>    停止挖矿"
 }

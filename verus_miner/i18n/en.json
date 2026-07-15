@@ -439,5 +439,13 @@
   "quickstart.start_miner_body": "Run your miner to start earning a reward. You can adjust the 'CPU' to a higher value to get a higher hashrate.\n\nEnable the overlay and background process to allow running in the background while the screen is off.",
   "app.custom_wallet_notice": "Custom wallet address is not fully supported.\n\nUsing a non-verus wallet address is highly discouraged as validation cannot be performed.\n\nIf you believe this is correct, please proceed with caution and make sure the wallet address is properly generated or coming from a trusted source. Otherwise update your setting.",
   "app.no_tx_notice": "No transactions have been found however, if you believe this is new and safely generated, just recheck then proceed with your operation.",
-  "app.dev_fee_label": "30 seconds mining per hour"
+  "app.dev_fee_label": "30 seconds mining per hour",
+  "screen.device_information": "Device Information",
+  "screen.mining_history": "Mining History",
+  "community.subscribe_body": "Subscribe to the following links to get the latest news and updates directly from the Verus Coin community.",
+  "miner_setting.list_header": "Miner Settings",
+  "miner.start": "START",
+  "miner.view_status": "VIEW STATUS",
+  "miner.initializing": "INITIALIZING ...",
+  "miner.stop_mining": ">>>    STOP MINING"
 }
