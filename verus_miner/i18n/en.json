@@ -329,7 +329,7 @@
   "device.cpu": "CPU",
   "device.build_based_on": "Based on your phone’s CPU. Mixed cores use the faster type; unknown CPUs get the generic build.",
   "device.detected_cores": "Detected cores",
-  "device.recommended_builds": "Recommended builds",
+  "device.recommended_builds": "Best builds to try",
   "device.on_recommended": "You’re on the recommended build for this CPU.",
   "device.copy_build_name": "Copy build name",
   "device.your_current_build": "your current build",
@@ -551,5 +551,8 @@
   "notification.unit_day": "day",
   "notification.unit_days": "days",
   "notification.unit_minute": "minute",
-  "notification.unit_minutes": "minutes"
+  "notification.unit_minutes": "minutes",
+  "device.best_to_try": "Best",
+  "device.try_builds_hint": "These are the best miner builds to try for this phone’s CPUs (faster cores first). Compare fairly: run each build about 1 hour on the same pool, with similar temperature, power mode, and thread settings — then pick the highest stable hashrate.",
+  "device.tip_try_build": "Tip: try {build} for ~1 hour on the same pool to compare hashrate."
 }
