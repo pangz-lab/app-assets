@@ -492,5 +492,8 @@
   "power.ambient_title": "Room temperature (sweet spot)",
   "power.ambient_summary": "Best mining is often around 18–28 °C room temperature. Hotter rooms need better cooling or Cooler profile.",
   "power.ambient_detail": "Phones throttle or get unstable when they overheat. Aim for a cool room (about 18–28 °C).\n\nAbove ~28 °C: improve airflow, remove a case if needed, use Cooler profile, or pause when hot.\n\nBelow ~18 °C: usually fine for mining — cold air helps keep the chip cool.\n\nThis is a comfort tip for the room/environment, not the battery % or in-app temperature pause settings.",
-  "history.pool_label": "Pool"
+  "history.pool_label": "Pool",
+  "mining_power.profile_locked_hint": "Locked by this profile: CPU threads, temperature pause, and battery pause. Other fields stay editable. Switch to Custom to unlock.",
+  "miner.metrics_info_title": "Mining metrics",
+  "general.history_storage_note": "Best for short sessions (checking stats). Mining speed is not affected, but leaving this on for a long time will use more storage on the phone."
 }
