@@ -495,5 +495,12 @@
   "history.pool_label": "Pool",
   "mining_power.profile_locked_hint": "Locked by this profile: CPU threads, temperature pause, and battery pause. Other fields stay editable. Switch to Custom to unlock.",
   "miner.metrics_info_title": "Mining metrics",
-  "general.history_storage_note": "Best for short sessions (checking stats). Mining speed is not affected, but leaving this on for a long time will use more storage on the phone."
+  "general.history_storage_note": "Best for short sessions (checking stats). Mining speed is not affected, but leaving this on for a long time will use more storage on the phone.",
+  "theme.section": "Appearance",
+  "theme.dropdown_label": "App theme",
+  "theme.dropdown_hint": "Colors for buttons, bars, and cards",
+  "theme.verus": "Verus (default)",
+  "theme.dark": "Dark",
+  "theme.pangz": "Pangz Lab",
+  "theme.oink": "Oink (B&W)"
 }
