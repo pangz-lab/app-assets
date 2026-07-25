@@ -692,5 +692,11 @@
   "miner.interrupted_body": "أُغلق VerusMiner أثناء التعدين، لذا لم يعد التعدين يعمل.",
   "miner.interrupted_hint": "افتح التعدين وابدأ من جديد. أبقِ الإشعار وتجنّب الإغلاق القسري من التطبيقات الأخيرة.",
   "general.invalid_monitoring_id": "معرّف المراقبة غير صالح",
-  "general.invalid_monitoring_id_format": "تنسيق معرّف المراقبة غير صالح"
+  "general.invalid_monitoring_id_format": "تنسيق معرّف المراقبة غير صالح",
+  "announcement.open_github": "فتح إصدارات GitHub",
+  "announcement.translate": "ترجمة",
+  "announcement.translate_hint": "يفتح Google Translate بهذا الإعلان. إن فشل، انسخ النص والصقه في الترجمة.",
+  "announcement.translate_failed": "تعذر فتح Google Translate. انسخ النص والصقه في الترجمة.",
+  "announcement.copy": "نسخ",
+  "announcement.copied": "تم نسخ الإعلان"
 }

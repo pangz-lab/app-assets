@@ -692,5 +692,11 @@
   "miner.interrupted_body": "VerusMiner se cerró con la minería activa, así que ya no está minando.",
   "miner.interrupted_hint": "Abre Minería y vuelve a iniciar. Consejo: mantén la notificación y evita forzar el cierre desde Recientes.",
   "general.invalid_monitoring_id": "ID de monitorización no válida",
-  "general.invalid_monitoring_id_format": "Formato de ID de monitorización no válido"
+  "general.invalid_monitoring_id_format": "Formato de ID de monitorización no válido",
+  "announcement.open_github": "Abrir releases de GitHub",
+  "announcement.translate": "Traducir",
+  "announcement.translate_hint": "Abre Google Translate con este anuncio. Si falla, copie el texto y péguelo en Translate.",
+  "announcement.translate_failed": "No se pudo abrir Google Translate. Copie el texto y péguelo en Translate.",
+  "announcement.copy": "Copiar",
+  "announcement.copied": "Anuncio copiado"
 }

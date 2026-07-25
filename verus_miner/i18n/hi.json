@@ -692,5 +692,11 @@
   "miner.interrupted_body": "माइनिंग चालू रहते VerusMiner बंद हो गया, इसलिए माइनिंग अब नहीं चल रही।",
   "miner.interrupted_hint": "माइनिंग टैब से फिर शुरू करें। नोटिफ़िकेशन रखें और हालिया ऐप्स से ज़बरदस्ती बंद न करें।",
   "general.invalid_monitoring_id": "अमान्य मॉनिटरिंग ID",
-  "general.invalid_monitoring_id_format": "अमान्य मॉनिटरिंग ID प्रारूप"
+  "general.invalid_monitoring_id_format": "अमान्य मॉनिटरिंग ID प्रारूप",
+  "announcement.open_github": "GitHub रिलीज़ खोलें",
+  "announcement.translate": "अनुवाद",
+  "announcement.translate_hint": "इस घोषणा के साथ Google अनुवाद खोलता है। न खुले तो कॉपी करके अनुवाद में पेस्ट करें।",
+  "announcement.translate_failed": "Google अनुवाद नहीं खुल सका। पाठ कॉपी करके अनुवाद में पेस्ट करें।",
+  "announcement.copy": "कॉपी",
+  "announcement.copied": "घोषणा कॉपी हो गई"
 }

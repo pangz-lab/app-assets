@@ -692,5 +692,11 @@
   "miner.interrupted_body": "VerusMiner zamknięto podczas aktywnego kopania, więc kopanie już nie działa.",
   "miner.interrupted_hint": "Otwórz Kopanie i uruchom ponownie. Wskazówka: zostaw powiadomienie i unikaj wymuszonego zamknięcia.",
   "general.invalid_monitoring_id": "Nieprawidłowy ID monitoringu",
-  "general.invalid_monitoring_id_format": "Nieprawidłowy format ID monitoringu"
+  "general.invalid_monitoring_id_format": "Nieprawidłowy format ID monitoringu",
+  "announcement.open_github": "Otwórz wydania GitHub",
+  "announcement.translate": "Tłumacz",
+  "announcement.translate_hint": "Otwiera Google Translate z tym ogłoszeniem. Jeśli nie działa, skopiuj tekst i wklej do Translate.",
+  "announcement.translate_failed": "Nie udało się otworzyć Google Translate. Skopiuj tekst i wklej do Translate.",
+  "announcement.copy": "Kopiuj",
+  "announcement.copied": "Ogłoszenie skopiowane"
 }

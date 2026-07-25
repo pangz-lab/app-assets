@@ -692,5 +692,11 @@
   "miner.interrupted_body": "マイニング中に VerusMiner が終了したため、マイニングは動いていません。",
   "miner.interrupted_hint": "マイニングタブから再開してください。通知を残し、最近のアプリから強制終了しないでください。",
   "general.invalid_monitoring_id": "無効なモニタリング ID",
-  "general.invalid_monitoring_id_format": "モニタリング ID の形式が無効です"
+  "general.invalid_monitoring_id_format": "モニタリング ID の形式が無効です",
+  "announcement.open_github": "GitHubリリースを開く",
+  "announcement.translate": "翻訳",
+  "announcement.translate_hint": "このお知らせをGoogle翻訳で開きます。失敗したらコピーして翻訳に貼り付けてください。",
+  "announcement.translate_failed": "Google翻訳を開けませんでした。テキストをコピーして翻訳に貼り付けてください。",
+  "announcement.copy": "コピー",
+  "announcement.copied": "お知らせをコピーしました"
 }

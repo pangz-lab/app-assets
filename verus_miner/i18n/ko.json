@@ -692,5 +692,11 @@
   "miner.interrupted_body": "채굴 중 VerusMiner가 종료되어 더 이상 채굴이 실행되지 않습니다.",
   "miner.interrupted_hint": "채굴 탭에서 다시 시작하세요. 알림을 유지하고 최근 앱에서 강제 종료하지 마세요.",
   "general.invalid_monitoring_id": "잘못된 모니터링 ID",
-  "general.invalid_monitoring_id_format": "모니터링 ID 형식이 잘못되었습니다"
+  "general.invalid_monitoring_id_format": "모니터링 ID 형식이 잘못되었습니다",
+  "announcement.open_github": "GitHub 릴리스 열기",
+  "announcement.translate": "번역",
+  "announcement.translate_hint": "이 공지를 Google 번역으로 엽니다. 안 되면 복사 후 번역에 붙여넣으세요.",
+  "announcement.translate_failed": "Google 번역을 열 수 없습니다. 텍스트를 복사해 번역에 붙여넣으세요.",
+  "announcement.copy": "복사",
+  "announcement.copied": "공지를 복사했습니다"
 }

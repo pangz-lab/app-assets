@@ -692,5 +692,11 @@
   "miner.interrupted_body": "VerusMiner wurde beendet, während Mining noch aktiv war — Mining läuft nicht mehr.",
   "miner.interrupted_hint": "Öffnen Sie Mining und starten Sie erneut. Tipp: Benachrichtigung behalten und App nicht aus den letzten Apps erzwingen schließen.",
   "general.invalid_monitoring_id": "Ungültige Monitoring-ID",
-  "general.invalid_monitoring_id_format": "Ungültiges Monitoring-ID-Format"
+  "general.invalid_monitoring_id_format": "Ungültiges Monitoring-ID-Format",
+  "announcement.open_github": "GitHub-Releases öffnen",
+  "announcement.translate": "Übersetzen",
+  "announcement.translate_hint": "Öffnet Google Translate mit diesem Hinweis. Falls das nicht geht: Text kopieren und in Translate einfügen.",
+  "announcement.translate_failed": "Google Translate konnte nicht geöffnet werden. Text kopieren und in Translate einfügen.",
+  "announcement.copy": "Kopieren",
+  "announcement.copied": "Ankündigung kopiert"
 }

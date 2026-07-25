@@ -692,5 +692,11 @@
   "miner.interrupted_body": "VerusMiner was closed while mining was still active, so mining is no longer running.",
   "miner.interrupted_hint": "To mine again, open Mining and start. Tip: keep the mining notification and avoid force-closing the app from Recents.",
   "general.invalid_monitoring_id": "Invalid Monitoring ID",
-  "general.invalid_monitoring_id_format": "Invalid Monitoring ID format"
+  "general.invalid_monitoring_id_format": "Invalid Monitoring ID format",
+  "announcement.open_github": "Open GitHub releases",
+  "announcement.translate": "Translate",
+  "announcement.translate_hint": "Opens Google Translate with this announcement. If that fails, use copy and paste into Translate.",
+  "announcement.translate_failed": "Could not open Google Translate. Copy the text and paste it into Translate instead.",
+  "announcement.copy": "Copy",
+  "announcement.copied": "Announcement copied"
 }

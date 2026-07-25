@@ -692,5 +692,11 @@
   "miner.interrupted_body": "VerusMiner ditutup saat penambangan masih aktif, jadi penambangan tidak berjalan lagi.",
   "miner.interrupted_hint": "Buka Penambangan dan mulai lagi. Tip: biarkan notifikasi dan hindari tutup paksa dari Terbaru.",
   "general.invalid_monitoring_id": "ID pemantauan tidak valid",
-  "general.invalid_monitoring_id_format": "Format ID pemantauan tidak valid"
+  "general.invalid_monitoring_id_format": "Format ID pemantauan tidak valid",
+  "announcement.open_github": "Buka rilis GitHub",
+  "announcement.translate": "Terjemahkan",
+  "announcement.translate_hint": "Membuka Google Translate dengan pengumuman ini. Jika gagal, salin teks dan tempel ke Translate.",
+  "announcement.translate_failed": "Tidak dapat membuka Google Translate. Salin teks dan tempel ke Translate.",
+  "announcement.copy": "Salin",
+  "announcement.copied": "Pengumuman disalin"
 }

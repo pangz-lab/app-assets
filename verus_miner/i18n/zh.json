@@ -692,5 +692,11 @@
   "miner.interrupted_body": "挖矿仍在运行时 VerusMiner 被关闭，因此挖矿已不再运行。",
   "miner.interrupted_hint": "请打开“挖矿”重新开始。提示：保留挖矿通知，并避免从最近任务中强制关闭应用。",
   "general.invalid_monitoring_id": "无效的监控 ID",
-  "general.invalid_monitoring_id_format": "监控 ID 格式无效"
+  "general.invalid_monitoring_id_format": "监控 ID 格式无效",
+  "announcement.open_github": "打开 GitHub 发布页",
+  "announcement.translate": "翻译",
+  "announcement.translate_hint": "用 Google 翻译打开本公告。若失败，请复制全文粘贴到翻译。",
+  "announcement.translate_failed": "无法打开 Google 翻译。请复制文本并粘贴到翻译。",
+  "announcement.copy": "复制",
+  "announcement.copied": "公告已复制"
 }

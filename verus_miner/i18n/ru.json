@@ -692,5 +692,11 @@
   "miner.interrupted_body": "VerusMiner был закрыт во время майнинга, поэтому майнинг больше не работает.",
   "miner.interrupted_hint": "Откройте «Майнинг» и запустите снова. Не закрывайте приложение из списка недавних.",
   "general.invalid_monitoring_id": "Неверный ID мониторинга",
-  "general.invalid_monitoring_id_format": "Неверный формат ID мониторинга"
+  "general.invalid_monitoring_id_format": "Неверный формат ID мониторинга",
+  "announcement.open_github": "Открыть релизы GitHub",
+  "announcement.translate": "Перевести",
+  "announcement.translate_hint": "Открывает Google Переводчик с этим объявлением. Если не сработает — скопируйте текст и вставьте в Переводчик.",
+  "announcement.translate_failed": "Не удалось открыть Google Переводчик. Скопируйте текст и вставьте в Переводчик.",
+  "announcement.copy": "Копировать",
+  "announcement.copied": "Объявление скопировано"
 }

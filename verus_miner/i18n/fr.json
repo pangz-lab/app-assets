@@ -692,5 +692,11 @@
   "miner.interrupted_body": "VerusMiner a été fermé pendant le minage ; le minage ne tourne plus.",
   "miner.interrupted_hint": "Ouvrez Minage et relancez. Conseil : gardez la notification et évitez la fermeture forcée depuis les récents.",
   "general.invalid_monitoring_id": "ID de surveillance invalide",
-  "general.invalid_monitoring_id_format": "Format d’ID de surveillance invalide"
+  "general.invalid_monitoring_id_format": "Format d’ID de surveillance invalide",
+  "announcement.open_github": "Ouvrir les releases GitHub",
+  "announcement.translate": "Traduire",
+  "announcement.translate_hint": "Ouvre Google Translate avec cette annonce. Sinon, copiez le texte et collez-le dans Translate.",
+  "announcement.translate_failed": "Impossible d’ouvrir Google Translate. Copiez le texte et collez-le dans Translate.",
+  "announcement.copy": "Copier",
+  "announcement.copied": "Annonce copiée"
 }
