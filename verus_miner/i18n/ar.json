@@ -362,8 +362,8 @@
   "device.mixed_cpu_build": "للـ CPU المختلط استخدم البناء المحسَّن للأنوية الأسرع: {tag}.",
   "miner.log_title": "سجل التعدين",
   "miner.start_mining": "بدء التعدين",
-  "miner.exit_screen": "الخروج من الشاشة؟",
-  "miner.exit_body": "الخروج من الشاشة. سيبقى المُعدِّن نشطًا.",
+  "miner.exit_screen": "مغادرة شاشة التعدين؟",
+  "miner.exit_body": "تغادر هذه الشاشة فقط. التعدين يستمر في الخلفية (يبقى الإشعار).",
   "miner.paused": "التعدين متوقف مؤقتًا",
   "miner.pause_ellipsis": "إيقاف التعدين مؤقتًا ...",
   "miner.paused_timer": "سيبدأ التعدين عند انتهاء المؤقّت",
@@ -684,5 +684,11 @@
   "device.cluster": "العنقود",
   "device.already_using_build": "التطبيق يستخدم هذا البناء بالفعل ({version}).",
   "device.switch_to_build": "أنت على {current}؛ التبديل إلى {build}",
-  "device.cannot_parse_cpu_tag": "تعذّر قراءة وسم المعالج من سلسلة إصدار المُعدّن."
+  "device.cannot_parse_cpu_tag": "تعذّر قراءة وسم المعالج من سلسلة إصدار المُعدّن.",
+  "device.build_reason_single": "تم اكتشاف {core}. أفضل بناء للتجربة: {tag}.",
+  "device.build_reason_multi": "هذا الهاتف فيه {labels}. أفضل بناء حسب الأنوية الأسرع: {tag}.",
+  "miner.exit_keep_alive_hint": "لا تسحب VerusMiner من التطبيقات الأخيرة أثناء التعدين — ذلك يوقف العملية. استخدم زر الرئيسية أو موافق لمغادرة الشاشة.",
+  "miner.interrupted_title": "توقف التعدين",
+  "miner.interrupted_body": "أُغلق VerusMiner أثناء التعدين، لذا لم يعد التعدين يعمل.",
+  "miner.interrupted_hint": "افتح التعدين وابدأ من جديد. أبقِ الإشعار وتجنّب الإغلاق القسري من التطبيقات الأخيرة."
 }

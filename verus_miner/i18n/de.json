@@ -362,8 +362,8 @@
   "device.mixed_cpu_build": "For mixed CPUs, use the faster-core optimized build: {tag}.",
   "miner.log_title": "Mining Log",
   "miner.start_mining": "Start Mining",
-  "miner.exit_screen": "Exit Screen?",
-  "miner.exit_body": "Exiting the screen. Miner will still be active.",
+  "miner.exit_screen": "Leave mining screen?",
+  "miner.exit_body": "You are only leaving this screen. Mining keeps running in the background (notification stays on).",
   "miner.paused": "Paused Mining",
   "miner.pause_ellipsis": "Pause mining ...",
   "miner.paused_timer": "Mining will start once the timer is up",
@@ -684,5 +684,11 @@
   "device.cluster": "Cluster",
   "device.already_using_build": "Your app is already using this build ({version}).",
   "device.switch_to_build": "You are on {current}; switching to {build}",
-  "device.cannot_parse_cpu_tag": "Could not read the CPU tag from the miner version string."
+  "device.cannot_parse_cpu_tag": "Could not read the CPU tag from the miner version string.",
+  "device.build_reason_single": "Detected {core}. Best build to try: {tag}.",
+  "device.build_reason_multi": "This phone has {labels}. Best build to try follows the faster cores: {tag}.",
+  "miner.exit_keep_alive_hint": "Do not swipe VerusMiner away from Recents while mining — that kills the process and stops mining. Prefer the home button or leave this screen with OK.",
+  "miner.interrupted_title": "Mining stopped",
+  "miner.interrupted_body": "VerusMiner was closed while mining was still active, so mining is no longer running.",
+  "miner.interrupted_hint": "To mine again, open Mining and start. Tip: keep the mining notification and avoid force-closing the app from Recents."
 }

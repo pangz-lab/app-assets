@@ -362,8 +362,8 @@
   "device.mixed_cpu_build": "혼합 CPU는 더 빠른 코어용 최적화 빌드를 사용: {tag}.",
   "miner.log_title": "마이닝 로그",
   "miner.start_mining": "마이닝 시작",
-  "miner.exit_screen": "화면을 나갈까요?",
-  "miner.exit_body": "화면을 나가도 마이너는 계속 동작합니다.",
+  "miner.exit_screen": "채굴 화면을 나갈까요?",
+  "miner.exit_body": "이 화면만 나갑니다. 채굴은 백그라운드에서 계속됩니다(알림 유지).",
   "miner.paused": "마이닝 일시 중지됨",
   "miner.pause_ellipsis": "마이닝 일시 중지…",
   "miner.paused_timer": "타이머가 끝나면 마이닝이 시작됩니다",
@@ -684,5 +684,11 @@
   "device.cluster": "클러스터",
   "device.already_using_build": "앱이 이미 이 빌드를 사용 중입니다({version}).",
   "device.switch_to_build": "현재 {current}입니다. {build}(으)로 전환하면",
-  "device.cannot_parse_cpu_tag": "마이너 버전 문자열에서 CPU 태그를 읽을 수 없습니다."
+  "device.cannot_parse_cpu_tag": "마이너 버전 문자열에서 CPU 태그를 읽을 수 없습니다.",
+  "device.build_reason_single": "{core} 감지. 시도할 빌드: {tag}.",
+  "device.build_reason_multi": "이 기기에는 {labels}가 있습니다. 빠른 코어용 빌드: {tag}.",
+  "miner.exit_keep_alive_hint": "채굴 중 최근 앱에서 VerusMiner를 밀지 마세요. 프로세스가 종료되어 채굴이 멈춥니다. 홈 버튼을 쓰거나 확인으로 이 화면을 나가세요.",
+  "miner.interrupted_title": "채굴이 중지됨",
+  "miner.interrupted_body": "채굴 중 VerusMiner가 종료되어 더 이상 채굴이 실행되지 않습니다.",
+  "miner.interrupted_hint": "채굴 탭에서 다시 시작하세요. 알림을 유지하고 최근 앱에서 강제 종료하지 마세요."
 }

@@ -362,8 +362,8 @@
   "device.mixed_cpu_build": "मिश्रित CPU के लिए तेज़-कोर अनुकूलित बिल्ड उपयोग करें: {tag}।",
   "miner.log_title": "माइनिंग लॉग",
   "miner.start_mining": "माइनिंग शुरू करें",
-  "miner.exit_screen": "स्क्रीन से बाहर?",
-  "miner.exit_body": "स्क्रीन से बाहर जा रहे हैं। माइनर सक्रिय रहेगा।",
+  "miner.exit_screen": "माइनिंग स्क्रीन छोड़ें?",
+  "miner.exit_body": "आप केवल यह स्क्रीन छोड़ रहे हैं। माइनिंग बैकग्राउंड में चलती रहेगी (नोटिफ़िकेशन रहेगा)।",
   "miner.paused": "माइनिंग रुकी",
   "miner.pause_ellipsis": "माइनिंग रोकें ...",
   "miner.paused_timer": "टाइमर खत्म होने पर माइनिंग शुरू होगी",
@@ -684,5 +684,11 @@
   "device.cluster": "क्लस्टर",
   "device.already_using_build": "आपका ऐप पहले से यह बिल्ड उपयोग कर रहा है ({version})।",
   "device.switch_to_build": "आप {current} पर हैं; {build} पर स्विच करने से",
-  "device.cannot_parse_cpu_tag": "माइनर संस्करण स्ट्रिंग से CPU टैग नहीं पढ़ा जा सका।"
+  "device.cannot_parse_cpu_tag": "माइनर संस्करण स्ट्रिंग से CPU टैग नहीं पढ़ा जा सका।",
+  "device.build_reason_single": "{core} मिला। आज़माने योग्य बिल्ड: {tag}.",
+  "device.build_reason_multi": "इस फ़ोन में {labels} हैं। तेज़ कोर वाला बिल्ड: {tag}.",
+  "miner.exit_keep_alive_hint": "माइनिंग के दौरान हालिया ऐप्स से VerusMiner स्वाइप न करें — प्रोसेस खत्म हो जाएगा। होम बटन या OK से स्क्रीन छोड़ें।",
+  "miner.interrupted_title": "माइनिंग बंद हो गई",
+  "miner.interrupted_body": "माइनिंग चालू रहते VerusMiner बंद हो गया, इसलिए माइनिंग अब नहीं चल रही।",
+  "miner.interrupted_hint": "माइनिंग टैब से फिर शुरू करें। नोटिफ़िकेशन रखें और हालिया ऐप्स से ज़बरदस्ती बंद न करें।"
 }

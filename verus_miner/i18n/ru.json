@@ -362,8 +362,8 @@
   "device.mixed_cpu_build": "Для смешанных CPU используйте сборку под более быстрые ядра: {tag}.",
   "miner.log_title": "Журнал майнинга",
   "miner.start_mining": "Начать майнинг",
-  "miner.exit_screen": "Выйти с экрана?",
-  "miner.exit_body": "Выход с экрана. Майнер останется активным.",
+  "miner.exit_screen": "Покинуть экран майнинга?",
+  "miner.exit_body": "Вы только покидаете этот экран. Майнинг продолжается в фоне (уведомление остаётся).",
   "miner.paused": "Майнинг на паузе",
   "miner.pause_ellipsis": "Пауза майнинга ...",
   "miner.paused_timer": "Майнинг начнётся по истечении таймера",
@@ -684,5 +684,11 @@
   "device.cluster": "Кластер",
   "device.already_using_build": "Приложение уже использует эту сборку ({version}).",
   "device.switch_to_build": "Сейчас {current}; переход на {build}",
-  "device.cannot_parse_cpu_tag": "Не удалось прочитать метку CPU из строки версии майнера."
+  "device.cannot_parse_cpu_tag": "Не удалось прочитать метку CPU из строки версии майнера.",
+  "device.build_reason_single": "Обнаружен {core}. Лучшая сборка: {tag}.",
+  "device.build_reason_multi": "В телефоне {labels}. Лучшая сборка по быстрым ядрам: {tag}.",
+  "miner.exit_keep_alive_hint": "Не смахивайте VerusMiner из недавних во время майнинга — процесс завершится. Лучше кнопка «Домой» или OK, чтобы покинуть экран.",
+  "miner.interrupted_title": "Майнинг остановлен",
+  "miner.interrupted_body": "VerusMiner был закрыт во время майнинга, поэтому майнинг больше не работает.",
+  "miner.interrupted_hint": "Откройте «Майнинг» и запустите снова. Не закрывайте приложение из списка недавних."
 }

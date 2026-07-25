@@ -362,8 +362,8 @@
   "device.mixed_cpu_build": "混合 CPU 请使用更快核心的优化版本：{tag}。",
   "miner.log_title": "挖矿日志",
   "miner.start_mining": "开始挖矿",
-  "miner.exit_screen": "退出界面？",
-  "miner.exit_body": "退出界面后矿工仍会继续运行。",
+  "miner.exit_screen": "离开挖矿界面？",
+  "miner.exit_body": "仅离开此界面。挖矿会在后台继续（通知仍会显示）。",
   "miner.paused": "挖矿已暂停",
   "miner.pause_ellipsis": "暂停挖矿…",
   "miner.paused_timer": "计时结束后将恢复挖矿",
@@ -684,5 +684,11 @@
   "device.cluster": "集群",
   "device.already_using_build": "应用已在使用此构建（{version}）。",
   "device.switch_to_build": "当前为 {current}；切换到 {build}",
-  "device.cannot_parse_cpu_tag": "无法从矿工程序版本字符串读取 CPU 标签。"
+  "device.cannot_parse_cpu_tag": "无法从矿工程序版本字符串读取 CPU 标签。",
+  "device.build_reason_single": "检测到 {core}。建议尝试的构建：{tag}。",
+  "device.build_reason_multi": "此手机有 {labels}。建议按更快核心尝试构建：{tag}。",
+  "miner.exit_keep_alive_hint": "挖矿时请勿从“最近任务”划掉 VerusMiner——这会结束进程并停止挖矿。请优先用主页键，或点确定离开此界面。",
+  "miner.interrupted_title": "挖矿已停止",
+  "miner.interrupted_body": "挖矿仍在运行时 VerusMiner 被关闭，因此挖矿已不再运行。",
+  "miner.interrupted_hint": "请打开“挖矿”重新开始。提示：保留挖矿通知，并避免从最近任务中强制关闭应用。"
 }
