@@ -657,5 +657,9 @@
   "miner.duration_short": "Duration: {a}",
   "miner.duration_long": "Duration: {a} and {b}",
   "announcement.open_link": "Open link",
-  "announcement.unknown_author": "Official"
+  "announcement.unknown_author": "Official",
+  "theme.refresh_packs": "Refresh themes",
+  "theme.refreshing": "Refreshing theme catalog and packs…",
+  "theme.refresh_ok": "Theme list and packs updated from the server.",
+  "theme.refresh_failed": "Could not refresh themes from the server. Keeping current colors."
 }
