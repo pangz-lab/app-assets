@@ -690,5 +690,7 @@
   "miner.exit_keep_alive_hint": "Do not swipe VerusMiner away from Recents while mining — that kills the process and stops mining. Prefer the home button or leave this screen with OK.",
   "miner.interrupted_title": "Mining stopped",
   "miner.interrupted_body": "VerusMiner was closed while mining was still active, so mining is no longer running.",
-  "miner.interrupted_hint": "To mine again, open Mining and start. Tip: keep the mining notification and avoid force-closing the app from Recents."
+  "miner.interrupted_hint": "To mine again, open Mining and start. Tip: keep the mining notification and avoid force-closing the app from Recents.",
+  "general.invalid_monitoring_id": "Invalid Monitoring ID",
+  "general.invalid_monitoring_id_format": "Invalid Monitoring ID format"
 }
