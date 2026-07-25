@@ -33,6 +33,17 @@
         }
     },
     "announcements": [
-        { "source": "Official", "title": "Verus was compromised", "description": "description", "content":"content", "uri": "uri", "published": {"by": "Bloodys", "date":"2023-10-11T00:00:00"} }
+        {
+      "id": "sample-notice-1",
+      "source": "Official",
+      "title": "Welcome to VerusMiner announcements",
+      "description": "Short summary for lists (optional).",
+      "content": "# Hello miners\n\nThis is a sample announcement body.\n\n## Tips\n\n- Keep Wi-Fi on while mining\n- Use your own wallet address\n\nThanks for supporting the community.",
+      "uri": "https://verus.io/",
+      "published": {
+        "by": "Pangz",
+        "date": "2026-07-25T00:00:00"
+      }
+        }
     ]
 }
