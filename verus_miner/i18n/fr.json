@@ -362,8 +362,8 @@
   "device.mixed_cpu_build": "For mixed CPUs, use the faster-core optimized build: {tag}.",
   "miner.log_title": "Minage Log",
   "miner.start_mining": "Démarrer Minage",
-  "miner.exit_screen": "Leave mining screen?",
-  "miner.exit_body": "You are only leaving this screen. Mining keeps running in the background (notification stays on).",
+  "miner.exit_screen": "Quitter l’écran de minage ?",
+  "miner.exit_body": "Vous quittez seulement cet écran. Le minage continue en arrière-plan (notification conservée).",
   "miner.paused": "Paused Minage",
   "miner.pause_ellipsis": "Pause mining ...",
   "miner.paused_timer": "Minage will start once the timer is up",
@@ -685,10 +685,10 @@
   "device.already_using_build": "Your app is already using this build ({version}).",
   "device.switch_to_build": "You are on {current}; switching to {build}",
   "device.cannot_parse_cpu_tag": "Could not read the CPU tag from the miner version string.",
-  "device.build_reason_single": "Detected {core}. Best build to try: {tag}.",
-  "device.build_reason_multi": "This phone has {labels}. Best build to try follows the faster cores: {tag}.",
-  "miner.exit_keep_alive_hint": "Do not swipe VerusMiner away from Recents while mining — that kills the process and stops mining. Prefer the home button or leave this screen with OK.",
-  "miner.interrupted_title": "Mining stopped",
-  "miner.interrupted_body": "VerusMiner was closed while mining was still active, so mining is no longer running.",
-  "miner.interrupted_hint": "To mine again, open Mining and start. Tip: keep the mining notification and avoid force-closing the app from Recents."
+  "device.build_reason_single": "{core} détecté. Meilleur build à essayer : {tag}.",
+  "device.build_reason_multi": "Ce téléphone a {labels}. Meilleur build selon les cœurs rapides : {tag}.",
+  "miner.exit_keep_alive_hint": "Ne glissez pas VerusMiner hors des récents pendant le minage — cela tue le processus. Préférez le bouton Accueil ou OK pour quitter cet écran.",
+  "miner.interrupted_title": "Minage arrêté",
+  "miner.interrupted_body": "VerusMiner a été fermé pendant le minage ; le minage ne tourne plus.",
+  "miner.interrupted_hint": "Ouvrez Minage et relancez. Conseil : gardez la notification et évitez la fermeture forcée depuis les récents."
 }
