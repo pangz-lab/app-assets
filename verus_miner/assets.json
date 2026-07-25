@@ -1,9 +1,18 @@
 {
     "app": {
-        "releasedDate": "2024-02-06T12:00:00",
-        "latestVersion": "5.0.0",
+        "releasedDate": "2026-07-26T12:00:00",
+        "latestVersion": "6.0.0",
         "required": false,
-        "changelog": []
+        "changelog": [
+            "Mining power profiles: Balanced, Performance, Cooler, and Custom",
+            "CPU topology detect and smarter miner-build suggestions",
+            "Keep mining connected phone setup checklist",
+            "Mining history with session graphs and date ranges",
+            "Last-session graphs on the home screen when idle",
+            "Unclean-exit notice if mining was interrupted",
+            "Themes and multi-language packs (refreshable)",
+            "UI refresh: clearer navigation, onboarding, and metrics"
+        ]
     },
     "guides": {
         "videos": [
@@ -160,15 +169,15 @@
     },
     "announcements": [
         {
-            "id": "sample-notice-1",
+            "id": "verusminer-v6-0-0",
             "source": "Official",
-            "title": "Welcome to VerusMiner announcements",
-            "description": "Short summary for lists (optional).",
-            "content": "# Hello miners\n\nThis is a sample announcement body.\n\n## Tips\n\n- Keep Wi-Fi on while mining\n- Use your own wallet address\n\nThanks for supporting the community.",
-            "uri": "https://verus.io/",
+            "title": "VerusMiner v6 is here 🎉",
+            "description": "A friendlier, smarter release: Mining power profiles, better phone setup, history graphs, themes & languages, and a smoother home experience. Tap for the full story and download page.",
+            "content": "# VerusMiner v6 is here\n\nThanks for mining with us. Version 6 is a big quality-of-life release — easier to set up, easier to keep online overnight, and clearer about how your phone is performing.\n\n## What’s new\n\n### Mining power (new)\nPick a simple profile instead of guessing thread counts:\n\n- **Balanced** — everyday mining with about half your cores\n- **Performance** — prefers faster cores when your phone has them\n- **Cooler** — fewer cores, less heat, gentler on battery\n- **Custom** — full control when you want it\n\nDetect CPU topology once in Device Info, then profiles can apply smart defaults (including temperature and battery pauses).\n\n### Stay connected overnight (new)\n**Keep mining connected** is a short checklist for battery, Wi‑Fi, and OEM power settings so the pool doesn’t drop when the screen is off. Open it anytime from Settings before a long session.\n\n### History & graphs\n- Session history with ranges (1h → 30d, custom)\n- Live charts while mining: hashrate, temperature, shares, difficulty\n- When mining stops, home can still show your **last session** graphs\n\n### Smoother mining UX\n- Clearer home and bottom navigation\n- Accepted/hour and other metrics that are easier to read\n- Notice if the app was force-closed while mining (so you know why it stopped)\n- Refreshed onboarding and Quickstart for first-time setup\n\n### Look & language\n- Multiple themes (including community styles)\n- More languages via refreshable language packs — pull the latest from Tools / General settings\n\n## Tips after updating\n- Open **Device Info** → detect CPU topology (stop mining first)\n- Try a **Mining power** profile on your miner setting\n- Run through **Keep mining connected** once on each phone\n- Refresh languages/themes if you want the latest remote packs\n\n## Download & details\nUse the link below for the official VerusMiner page (Google Play).\n\nHappy hashing — and thank you for supporting the Verus community.",
+            "uri": "https://play.google.com/store/apps/details?id=com.pangzlab.verus_miner",
             "published": {
                 "by": "Pangz",
-                "date": "2026-07-25T00:00:00"
+                "date": "2026-07-26T12:00:00"
             }
         }
     ]
