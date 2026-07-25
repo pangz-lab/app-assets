@@ -535,7 +535,7 @@
   "common.copied_name": "تم نسخ {name}",
   "miner_setting.monitoring_section": "المراقبة",
   "miner_setting.set_as_default": "تعيين كافتراضي",
-  "miner_setting.add": "add",
+  "miner_setting.add": "إضافة",
   "miner_setting.cpu": "CPU",
   "miner_setting.group": "المجموعة",
   "miner.cancel_countdown_reconnect": "إلغاء العدّ التنازلي سيتطلب تشغيل المُعدّن مجددًا للاتصال بخادم المراقبة.",

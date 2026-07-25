@@ -535,7 +535,7 @@
   "common.copied_name": "{name} 복사됨",
   "miner_setting.monitoring_section": "모니터링",
   "miner_setting.set_as_default": "기본으로 설정",
-  "miner_setting.add": "add",
+  "miner_setting.add": "추가",
   "miner_setting.cpu": "CPU",
   "miner_setting.group": "그룹",
   "miner.cancel_countdown_reconnect": "카운트다운을 취소하면 모니터링 서버에 연결하려면 마이너를 다시 시작해야 합니다.",

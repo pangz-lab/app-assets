@@ -535,7 +535,7 @@
   "common.copied_name": "{name} をコピーしました",
   "miner_setting.monitoring_section": "モニタリング",
   "miner_setting.set_as_default": "既定に設定",
-  "miner_setting.add": "add",
+  "miner_setting.add": "追加",
   "miner_setting.cpu": "CPU",
   "miner_setting.group": "グループ",
   "miner.cancel_countdown_reconnect": "カウントダウンをキャンセルすると、モニタリングサーバーへ接続するには再度マイナーを起動する必要があります。",

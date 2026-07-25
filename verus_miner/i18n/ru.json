@@ -535,7 +535,7 @@
   "common.copied_name": "Скопировано {name}",
   "miner_setting.monitoring_section": "Мониторинг",
   "miner_setting.set_as_default": "Сделать по умолчанию",
-  "miner_setting.add": "add",
+  "miner_setting.add": "добавить",
   "miner_setting.cpu": "CPU",
   "miner_setting.group": "ГРУППА",
   "miner.cancel_countdown_reconnect": "Отмена обратного отсчёта потребует снова запустить майнер для подключения к серверу мониторинга.",

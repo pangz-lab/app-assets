@@ -535,7 +535,7 @@
   "common.copied_name": "{name} कॉपी हुआ",
   "miner_setting.monitoring_section": "मॉनिटरिंग",
   "miner_setting.set_as_default": "डिफ़ॉल्ट बनाएँ",
-  "miner_setting.add": "add",
+  "miner_setting.add": "जोड़ें",
   "miner_setting.cpu": "CPU",
   "miner_setting.group": "समूह",
   "miner.cancel_countdown_reconnect": "काउंटडाउन रद्द करने पर मॉनिटरिंग सर्वर से जुड़ने के लिए माइनर फिर शुरू करना होगा।",

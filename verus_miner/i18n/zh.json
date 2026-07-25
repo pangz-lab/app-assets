@@ -535,7 +535,7 @@
   "common.copied_name": "已复制 {name}",
   "miner_setting.monitoring_section": "监控",
   "miner_setting.set_as_default": "设为默认",
-  "miner_setting.add": "add",
+  "miner_setting.add": "添加",
   "miner_setting.cpu": "CPU",
   "miner_setting.group": "分组",
   "miner.cancel_countdown_reconnect": "取消倒计时后，需重新启动矿工才能连接到监控服务器。",
