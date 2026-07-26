@@ -1,7 +1,7 @@
 {
     "app": {
-        "releasedDate": "2026-07-26T12:00:00",
-        "latestVersion": "6.0.0",
+        "releasedDate": "2024-02-06T12:00:00",
+        "latestVersion": "5.0.0",
         "required": false,
         "changelog": [
             "Wide CPU-specific optimized miner builds (v8a-* catalog)",
