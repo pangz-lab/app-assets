@@ -470,7 +470,7 @@
   "device.your_current_build": "現在のビルド",
   "device.may_improve": "このスマホでハッシュレートが向上する場合があります。",
   "device.already_using_build": "アプリはこのビルドを既に使用しています（{version}）。",
-  "device.switch_to_build": "現在は {current} です。{build} に切り替えると",
+  "device.switch_to_build": "現在 {current} です。{build} に切り替えます",
   "device.cannot_parse_cpu_tag": "マイナーのバージョン文字列から CPU タグを読み取れませんでした。",
   "device.releases_open_fail": "リリースページを開けませんでした。GitHub で “verus_miner-release” を検索してください。",
   "device.unknown_cpu_body": "CPU の詳細を読み取れませんでした。汎用ビルド (v8a-gen) を使用してください。",

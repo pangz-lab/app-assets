@@ -470,7 +470,7 @@
   "device.your_current_build": "您当前的版本",
   "device.may_improve": "可能在此手机上提高算力。",
   "device.already_using_build": "应用已在使用此构建（{version}）。",
-  "device.switch_to_build": "当前为 {current}；切换到 {build}",
+  "device.switch_to_build": "当前为 {current}；正在切换到 {build}",
   "device.cannot_parse_cpu_tag": "无法从矿工程序版本字符串读取 CPU 标签。",
   "device.releases_open_fail": "无法打开发布页。请在 GitHub 搜索 “verus_miner-release”。",
   "device.unknown_cpu_body": "无法读取 CPU 详情。请使用通用版本 (v8a-gen)。",
