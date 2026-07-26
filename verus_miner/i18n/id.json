@@ -656,7 +656,12 @@
   "time.pattern_long": "EEE, d MMM y HH:mm:ss",
   "time.pattern_short": "d MMM y HH:mm",
   "miner_setting.cpu_affinity_enable": "Gunakan afinitas CPU",
-  "miner_setting.cpu_affinity_enable_sub": "Sematkan utas penambangan ke inti terpilih (--cpu-affinity). Hanya mode Kustom, setelah topologi CPU diketahui.",
+  "miner_setting.cpu_affinity_enable_sub": "Sematkan utas penambangan dengan masker dari topologi CPU ponsel ini (--cpu-affinity). Hanya mode Kustom.",
   "miner_setting.cpu_affinity_need_topology": "Periksa topologi CPU dulu untuk mengaktifkan afinitas.",
-  "miner_setting.cpu_affinity_custom_only": "Hanya tersedia di mode daya Kustom."
+  "miner_setting.cpu_affinity_custom_only": "Hanya tersedia di mode daya Kustom.",
+  "miner_setting.cpu_affinity_mask": "Masker afinitas",
+  "miner_setting.cpu_affinity_choice_suggested": "Disarankan",
+  "miner_setting.cpu_affinity_choice_full": "Seluruh perangkat",
+  "miner_setting.cpu_affinity_choice_big": "Inti besar",
+  "miner_setting.cpu_affinity_choice_little": "Inti kecil"
 }

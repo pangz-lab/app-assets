@@ -656,7 +656,12 @@
   "time.pattern_long": "EEE, d MMM y HH:mm:ss",
   "time.pattern_short": "d MMM y HH:mm",
   "miner_setting.cpu_affinity_enable": "CPU अफ़िनिटी उपयोग करें",
-  "miner_setting.cpu_affinity_enable_sub": "माइनिंग थ्रेड को चुने हुए कोर पर बाँधें (--cpu-affinity)। केवल कस्टम मोड में, CPU टोपोलॉजी ज्ञात होने के बाद।",
+  "miner_setting.cpu_affinity_enable_sub": "इस फ़ोन की CPU टोपोलॉजी से मास्क से माइनिंग थ्रेड पिन करें (--cpu-affinity)। केवल कस्टम मोड।",
   "miner_setting.cpu_affinity_need_topology": "अफ़िनिटी चालू करने से पहले CPU टोपोलॉजी जाँचें।",
-  "miner_setting.cpu_affinity_custom_only": "केवल कस्टम माइनिंग पावर मोड में उपलब्ध।"
+  "miner_setting.cpu_affinity_custom_only": "केवल कस्टम माइनिंग पावर मोड में उपलब्ध।",
+  "miner_setting.cpu_affinity_mask": "अफ़िनिटी मास्क",
+  "miner_setting.cpu_affinity_choice_suggested": "सुझाया गया",
+  "miner_setting.cpu_affinity_choice_full": "पूरा डिवाइस",
+  "miner_setting.cpu_affinity_choice_big": "बड़े कोर",
+  "miner_setting.cpu_affinity_choice_little": "छोटे कोर"
 }

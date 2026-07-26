@@ -656,7 +656,12 @@
   "time.pattern_long": "EEE d MMM y HH:mm:ss",
   "time.pattern_short": "d MMM y HH:mm",
   "miner_setting.cpu_affinity_enable": "Usar afinidad de CPU",
-  "miner_setting.cpu_affinity_enable_sub": "Fijar hilos de minería a núcleos seleccionados (--cpu-affinity). Solo en modo Personalizado, cuando se conoce la topología de CPU.",
+  "miner_setting.cpu_affinity_enable_sub": "Fijar hilos de minería con una máscara de la topología de CPU de este teléfono (--cpu-affinity). Solo modo Personalizado.",
   "miner_setting.cpu_affinity_need_topology": "Explore primero la topología de la CPU para activar la afinidad.",
-  "miner_setting.cpu_affinity_custom_only": "Disponible solo en el modo de potencia Personalizado."
+  "miner_setting.cpu_affinity_custom_only": "Disponible solo en el modo de potencia Personalizado.",
+  "miner_setting.cpu_affinity_mask": "Máscara de afinidad",
+  "miner_setting.cpu_affinity_choice_suggested": "Sugerida",
+  "miner_setting.cpu_affinity_choice_full": "Dispositivo completo",
+  "miner_setting.cpu_affinity_choice_big": "Núcleos grandes",
+  "miner_setting.cpu_affinity_choice_little": "Núcleos pequeños"
 }

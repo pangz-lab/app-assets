@@ -656,7 +656,12 @@
   "time.pattern_long": "EEE, d.MM.y HH:mm:ss",
   "time.pattern_short": "dd.MM.y HH:mm",
   "miner_setting.cpu_affinity_enable": "Użyj powinowactwa CPU",
-  "miner_setting.cpu_affinity_enable_sub": "Przypisz wątki kopania do wybranych rdzeni (--cpu-affinity). Tylko tryb Własny, po poznaniu topologii CPU.",
+  "miner_setting.cpu_affinity_enable_sub": "Przypnij wątki kopania maską z topologii CPU tego telefonu (--cpu-affinity). Tylko tryb Niestandardowy.",
   "miner_setting.cpu_affinity_need_topology": "Najpierw zbadaj topologię CPU, aby włączyć powinowactwo.",
-  "miner_setting.cpu_affinity_custom_only": "Dostępne tylko w trybie mocy Własny."
+  "miner_setting.cpu_affinity_custom_only": "Dostępne tylko w trybie mocy Własny.",
+  "miner_setting.cpu_affinity_mask": "Maska powinowactwa",
+  "miner_setting.cpu_affinity_choice_suggested": "Sugerowana",
+  "miner_setting.cpu_affinity_choice_full": "Całe urządzenie",
+  "miner_setting.cpu_affinity_choice_big": "Duże rdzenie",
+  "miner_setting.cpu_affinity_choice_little": "Małe rdzenie"
 }

@@ -656,7 +656,12 @@
   "time.pattern_long": "EEE, d.MM.y HH:mm:ss",
   "time.pattern_short": "dd.MM.y HH:mm",
   "miner_setting.cpu_affinity_enable": "CPU-Affinität verwenden",
-  "miner_setting.cpu_affinity_enable_sub": "Mining-Threads an ausgewählte Kerne binden (--cpu-affinity). Nur im Modus Benutzerdefiniert, nachdem die CPU-Topologie bekannt ist.",
+  "miner_setting.cpu_affinity_enable_sub": "Mining-Threads mit einer Maske aus der CPU-Topologie dieses Telefons anheften (--cpu-affinity). Nur im Modus Benutzerdefiniert.",
   "miner_setting.cpu_affinity_need_topology": "Zuerst die CPU-Topologie ermitteln, um Affinität zu aktivieren.",
-  "miner_setting.cpu_affinity_custom_only": "Nur im Mining-Power-Modus „Benutzerdefiniert“ verfügbar."
+  "miner_setting.cpu_affinity_custom_only": "Nur im Mining-Power-Modus „Benutzerdefiniert“ verfügbar.",
+  "miner_setting.cpu_affinity_mask": "Affinitätsmaske",
+  "miner_setting.cpu_affinity_choice_suggested": "Empfohlen",
+  "miner_setting.cpu_affinity_choice_full": "Gesamtes Gerät",
+  "miner_setting.cpu_affinity_choice_big": "Große Kerne",
+  "miner_setting.cpu_affinity_choice_little": "Kleine Kerne"
 }

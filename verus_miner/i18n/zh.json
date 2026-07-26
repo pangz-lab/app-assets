@@ -656,7 +656,12 @@
   "time.pattern_long": "y/M/d EEE HH:mm:ss",
   "time.pattern_short": "y/M/d HH:mm",
   "miner_setting.cpu_affinity_enable": "使用 CPU 亲和性",
-  "miner_setting.cpu_affinity_enable_sub": "将挖矿线程固定到所选核心（--cpu-affinity）。仅在获知 CPU 拓扑后的自定义模式下可用。",
+  "miner_setting.cpu_affinity_enable_sub": "使用本机 CPU 拓扑中的掩码固定挖矿线程（--cpu-affinity）。仅自定义模式。",
   "miner_setting.cpu_affinity_need_topology": "请先探测 CPU 拓扑再启用亲和性。",
-  "miner_setting.cpu_affinity_custom_only": "仅在自定义算力模式下可用。"
+  "miner_setting.cpu_affinity_custom_only": "仅在自定义算力模式下可用。",
+  "miner_setting.cpu_affinity_mask": "亲和性掩码",
+  "miner_setting.cpu_affinity_choice_suggested": "建议",
+  "miner_setting.cpu_affinity_choice_full": "整机",
+  "miner_setting.cpu_affinity_choice_big": "大核",
+  "miner_setting.cpu_affinity_choice_little": "小核"
 }

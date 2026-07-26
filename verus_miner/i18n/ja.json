@@ -656,7 +656,12 @@
   "time.pattern_long": "y/MM/dd(EEE) HH:mm:ss",
   "time.pattern_short": "y/MM/dd HH:mm",
   "miner_setting.cpu_affinity_enable": "CPU アフィニティを使う",
-  "miner_setting.cpu_affinity_enable_sub": "マイニングスレッドを選択したコアに固定します（--cpu-affinity）。CPU トポロジ取得後のカスタムモードのみ。",
+  "miner_setting.cpu_affinity_enable_sub": "この端末の CPU トポロジのマスクでマイニングスレッドを固定します（--cpu-affinity）。カスタムモードのみ。",
   "miner_setting.cpu_affinity_need_topology": "アフィニティを有効にするには、先に CPU トポロジを取得してください。",
-  "miner_setting.cpu_affinity_custom_only": "マイニングパワーが「カスタム」のときのみ利用できます。"
+  "miner_setting.cpu_affinity_custom_only": "マイニングパワーが「カスタム」のときのみ利用できます。",
+  "miner_setting.cpu_affinity_mask": "アフィニティマスク",
+  "miner_setting.cpu_affinity_choice_suggested": "推奨",
+  "miner_setting.cpu_affinity_choice_full": "デバイス全体",
+  "miner_setting.cpu_affinity_choice_big": "高性能コア",
+  "miner_setting.cpu_affinity_choice_little": "高効率コア"
 }

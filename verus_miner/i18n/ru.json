@@ -656,7 +656,12 @@
   "time.pattern_long": "EEE, d.MM.y HH:mm:ss",
   "time.pattern_short": "dd.MM.y HH:mm",
   "miner_setting.cpu_affinity_enable": "Использовать привязку CPU",
-  "miner_setting.cpu_affinity_enable_sub": "Закрепить потоки майнинга за выбранными ядрами (--cpu-affinity). Только режим «Свой», после определения топологии CPU.",
+  "miner_setting.cpu_affinity_enable_sub": "Закрепить потоки майнинга маской из топологии CPU этого телефона (--cpu-affinity). Только режим «Свой».",
   "miner_setting.cpu_affinity_need_topology": "Сначала определите топологию CPU, чтобы включить привязку.",
-  "miner_setting.cpu_affinity_custom_only": "Доступно только в режиме мощности «Свой»."
+  "miner_setting.cpu_affinity_custom_only": "Доступно только в режиме мощности «Свой».",
+  "miner_setting.cpu_affinity_mask": "Маска привязки",
+  "miner_setting.cpu_affinity_choice_suggested": "Рекомендуемая",
+  "miner_setting.cpu_affinity_choice_full": "Всё устройство",
+  "miner_setting.cpu_affinity_choice_big": "Большие ядра",
+  "miner_setting.cpu_affinity_choice_little": "Малые ядра"
 }

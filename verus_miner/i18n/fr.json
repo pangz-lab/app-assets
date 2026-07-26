@@ -656,7 +656,12 @@
   "time.pattern_long": "EEE d MMM y HH:mm:ss",
   "time.pattern_short": "d MMM y HH:mm",
   "miner_setting.cpu_affinity_enable": "Utiliser l’affinité CPU",
-  "miner_setting.cpu_affinity_enable_sub": "Épingler les threads de minage aux cœurs choisis (--cpu-affinity). Mode Personnalisé uniquement, une fois la topologie CPU connue.",
+  "miner_setting.cpu_affinity_enable_sub": "Épingler les threads de minage avec un masque de la topologie CPU de ce téléphone (--cpu-affinity). Mode Personnalisé uniquement.",
   "miner_setting.cpu_affinity_need_topology": "Sondez d’abord la topologie CPU pour activer l’affinité.",
-  "miner_setting.cpu_affinity_custom_only": "Disponible uniquement en mode de puissance Personnalisé."
+  "miner_setting.cpu_affinity_custom_only": "Disponible uniquement en mode de puissance Personnalisé.",
+  "miner_setting.cpu_affinity_mask": "Masque d’affinité",
+  "miner_setting.cpu_affinity_choice_suggested": "Suggéré",
+  "miner_setting.cpu_affinity_choice_full": "Appareil entier",
+  "miner_setting.cpu_affinity_choice_big": "Gros cœurs",
+  "miner_setting.cpu_affinity_choice_little": "Petits cœurs"
 }

@@ -656,7 +656,12 @@
   "time.pattern_long": "EEE، d MMM y HH:mm:ss",
   "time.pattern_short": "d MMM y HH:mm",
   "miner_setting.cpu_affinity_enable": "استخدام تقارب وحدة المعالجة",
-  "miner_setting.cpu_affinity_enable_sub": "تثبيت خيوط التعدين على الأنوية المختارة (--cpu-affinity). وضع مخصص فقط بعد معرفة طوبولوجيا المعالج.",
+  "miner_setting.cpu_affinity_enable_sub": "تثبيت خيوط التعدين بقناع من طوبولوجيا معالج هذا الهاتف (--cpu-affinity). وضع مخصص فقط.",
   "miner_setting.cpu_affinity_need_topology": "افحص طوبولوجيا المعالج أولاً لتفعيل التقارب.",
-  "miner_setting.cpu_affinity_custom_only": "متاح فقط في وضع طاقة التعدين المخصص."
+  "miner_setting.cpu_affinity_custom_only": "متاح فقط في وضع طاقة التعدين المخصص.",
+  "miner_setting.cpu_affinity_mask": "قناع التقارب",
+  "miner_setting.cpu_affinity_choice_suggested": "مقترح",
+  "miner_setting.cpu_affinity_choice_full": "الجهاز بالكامل",
+  "miner_setting.cpu_affinity_choice_big": "الأنوية الكبيرة",
+  "miner_setting.cpu_affinity_choice_little": "الأنوية الصغيرة"
 }

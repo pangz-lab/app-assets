@@ -656,7 +656,12 @@
   "time.pattern_long": "y. MM. dd. (EEE) HH:mm:ss",
   "time.pattern_short": "y. MM. dd. HH:mm",
   "miner_setting.cpu_affinity_enable": "CPU 어피니티 사용",
-  "miner_setting.cpu_affinity_enable_sub": "마이닝 스레드를 선택한 코어에 고정합니다(--cpu-affinity). CPU 토폴로지를 안 뒤 사용자 정의 모드에서만 가능합니다.",
+  "miner_setting.cpu_affinity_enable_sub": "이 휴대전화 CPU 토폴로지의 마스크로 마이닝 스레드를 고정합니다(--cpu-affinity). 사용자 지정 모드만.",
   "miner_setting.cpu_affinity_need_topology": "어피니티를 켜려면 먼저 CPU 토폴로지를 확인하세요.",
-  "miner_setting.cpu_affinity_custom_only": "마이닝 파워가 사용자 정의일 때만 사용할 수 있습니다."
+  "miner_setting.cpu_affinity_custom_only": "마이닝 파워가 사용자 정의일 때만 사용할 수 있습니다.",
+  "miner_setting.cpu_affinity_mask": "어피니티 마스크",
+  "miner_setting.cpu_affinity_choice_suggested": "권장",
+  "miner_setting.cpu_affinity_choice_full": "전체 장치",
+  "miner_setting.cpu_affinity_choice_big": "성능 코어",
+  "miner_setting.cpu_affinity_choice_little": "효율 코어"
 }

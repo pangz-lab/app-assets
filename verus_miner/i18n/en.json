@@ -656,7 +656,12 @@
   "time.pattern_long": "EEE, MMM d, y HH:mm:ss",
   "time.pattern_short": "MMM d, y HH:mm",
   "miner_setting.cpu_affinity_enable": "Use CPU affinity",
-  "miner_setting.cpu_affinity_enable_sub": "Pin mining threads to selected cores (--cpu-affinity). Custom mode only, after CPU topology is known.",
+  "miner_setting.cpu_affinity_enable_sub": "Pin mining threads using a mask from this phone's CPU topology (--cpu-affinity). Custom mode only.",
   "miner_setting.cpu_affinity_need_topology": "Probe CPU topology first to enable affinity.",
-  "miner_setting.cpu_affinity_custom_only": "Available only in Custom mining power mode."
+  "miner_setting.cpu_affinity_custom_only": "Available only in Custom mining power mode.",
+  "miner_setting.cpu_affinity_mask": "Affinity mask",
+  "miner_setting.cpu_affinity_choice_suggested": "Suggested",
+  "miner_setting.cpu_affinity_choice_full": "Full device",
+  "miner_setting.cpu_affinity_choice_big": "Big cores",
+  "miner_setting.cpu_affinity_choice_little": "Little cores"
 }
