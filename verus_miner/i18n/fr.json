@@ -652,5 +652,7 @@
   "miner.stop_mining": ">>>    ARRÊTER LE MINAGE",
   "history.session_untitled": "Untitled session",
   "history.started": "Started",
-  "miner_setting.add_monitoring_tooltip": "Add monitoring server"
+  "miner_setting.add_monitoring_tooltip": "Add monitoring server",
+  "time.pattern_long": "EEE d MMM y HH:mm:ss",
+  "time.pattern_short": "d MMM y HH:mm"
 }

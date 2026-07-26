@@ -652,5 +652,7 @@
   "miner.stop_mining": ">>>    마이닝 중지",
   "history.session_untitled": "Untitled session",
   "history.started": "Started",
-  "miner_setting.add_monitoring_tooltip": "Add monitoring server"
+  "miner_setting.add_monitoring_tooltip": "Add monitoring server",
+  "time.pattern_long": "y. MM. dd. (EEE) HH:mm:ss",
+  "time.pattern_short": "y. MM. dd. HH:mm"
 }
