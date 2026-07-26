@@ -216,7 +216,6 @@
   "miner_setting.qr_share": "Teilen",
   "miner_setting.qr_share_body": "Scannen Sie diesen Code auf einem anderen Gerät, um die Einstellung zu übernehmen.",
   "miner_setting.set_as_default": "Als Standard setzen",
-  "miner_setting.add": "Hinzufügen",
   "miner_setting.temperature_control": "Temperaturkontrolle",
   "miner_setting.charge_control": "Ladekontrolle",
   "miner_setting.temperature_threshold": "Temperatur-Schwelle",
@@ -650,5 +649,8 @@
   "miner.start": "START",
   "miner.view_status": "STATUS ANZEIGEN",
   "miner.initializing": "INITIALISIERE …",
-  "miner.stop_mining": ">>>    MINING STOPPEN"
+  "miner.stop_mining": ">>>    MINING STOPPEN",
+  "history.session_untitled": "Untitled session",
+  "history.started": "Started",
+  "miner_setting.add_monitoring_tooltip": "Add monitoring server"
 }

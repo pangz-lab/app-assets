@@ -216,7 +216,6 @@
   "miner_setting.qr_share": "Udostępnij",
   "miner_setting.qr_share_body": "To ustawienie Twojego minera. Możesz je zeskanować i użyć na innym urządzeniu.\n\n",
   "miner_setting.set_as_default": "Ustaw jako domyślne",
-  "miner_setting.add": "dodaj",
   "miner_setting.temperature_control": "Kontrola temperatury",
   "miner_setting.charge_control": "Kontrola ładowania",
   "miner_setting.temperature_threshold": "Temperatura Threshold",
@@ -650,5 +649,8 @@
   "miner.start": "START",
   "miner.view_status": "ZOBACZ STATUS",
   "miner.initializing": "INICJALIZACJA …",
-  "miner.stop_mining": ">>>    ZATRZYMAJ MINING"
+  "miner.stop_mining": ">>>    ZATRZYMAJ MINING",
+  "history.session_untitled": "Untitled session",
+  "history.started": "Started",
+  "miner_setting.add_monitoring_tooltip": "Add monitoring server"
 }

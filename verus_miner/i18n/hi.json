@@ -216,7 +216,6 @@
   "miner_setting.qr_share": "साझा करें",
   "miner_setting.qr_share_body": "यह आपका माइनर सेटिंग है। स्कैन करके दूसरे डिवाइस पर उपयोग कर सकते हैं।\n\n",
   "miner_setting.set_as_default": "डिफ़ॉल्ट बनाएँ",
-  "miner_setting.add": "जोड़ें",
   "miner_setting.temperature_control": "तापमान नियंत्रण",
   "miner_setting.charge_control": "चार्ज नियंत्रण",
   "miner_setting.temperature_threshold": "तापमान सीमा",
@@ -650,5 +649,8 @@
   "miner.start": "शुरू",
   "miner.view_status": "स्थिति देखें",
   "miner.initializing": "आरंभ हो रहा है…",
-  "miner.stop_mining": ">>>    माइनिंग बंद करें"
+  "miner.stop_mining": ">>>    माइनिंग बंद करें",
+  "history.session_untitled": "Untitled session",
+  "history.started": "Started",
+  "miner_setting.add_monitoring_tooltip": "Add monitoring server"
 }

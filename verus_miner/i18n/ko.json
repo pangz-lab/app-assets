@@ -216,7 +216,6 @@
   "miner_setting.qr_share": "공유",
   "miner_setting.qr_share_body": "마이너 설정입니다. 스캔하여 다른 기기에서 사용할 수 있습니다.\n\n",
   "miner_setting.set_as_default": "기본으로 설정",
-  "miner_setting.add": "추가",
   "miner_setting.temperature_control": "온도 제어",
   "miner_setting.charge_control": "충전 제어",
   "miner_setting.temperature_threshold": "온도 임계값",
@@ -650,5 +649,8 @@
   "miner.start": "시작",
   "miner.view_status": "상태 보기",
   "miner.initializing": "초기화 중…",
-  "miner.stop_mining": ">>>    마이닝 중지"
+  "miner.stop_mining": ">>>    마이닝 중지",
+  "history.session_untitled": "Untitled session",
+  "history.started": "Started",
+  "miner_setting.add_monitoring_tooltip": "Add monitoring server"
 }

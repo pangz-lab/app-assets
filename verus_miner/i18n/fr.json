@@ -216,7 +216,6 @@
   "miner_setting.qr_share": "Partager",
   "miner_setting.qr_share_body": "Voici le réglage de votre mineur. Vous pouvez le scanner et l'utiliser sur un autre appareil.\n\n",
   "miner_setting.set_as_default": "Définir par défaut",
-  "miner_setting.add": "ajouter",
   "miner_setting.temperature_control": "Contrôle de température",
   "miner_setting.charge_control": "Contrôle de charge",
   "miner_setting.temperature_threshold": "Température Threshold",
@@ -650,5 +649,8 @@
   "miner.start": "DÉMARRER",
   "miner.view_status": "VOIR L'ÉTAT",
   "miner.initializing": "INITIALISATION …",
-  "miner.stop_mining": ">>>    ARRÊTER LE MINAGE"
+  "miner.stop_mining": ">>>    ARRÊTER LE MINAGE",
+  "history.session_untitled": "Untitled session",
+  "history.started": "Started",
+  "miner_setting.add_monitoring_tooltip": "Add monitoring server"
 }

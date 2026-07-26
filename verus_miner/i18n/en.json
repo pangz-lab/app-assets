@@ -216,7 +216,6 @@
   "miner_setting.qr_share": "Share",
   "miner_setting.qr_share_body": "This is your miner's setting. You can scan this and use it on another device.\n\n",
   "miner_setting.set_as_default": "Set as default",
-  "miner_setting.add": "add",
   "miner_setting.temperature_control": "Temperature control",
   "miner_setting.charge_control": "Charge control",
   "miner_setting.temperature_threshold": "Temperature Threshold",
@@ -486,7 +485,7 @@
   "history.samples_count": "{n} samples",
   "history.duration": "Duration",
   "miner.log_title": "Mining Log",
-  "miner.start_mining": "Start Mining",
+  "miner.start_mining": "START MINING",
   "miner.exit_screen": "Exit Screen?",
   "miner.exit_body": "Exiting the screen. Miner will still be active.",
   "miner.paused": "Paused Mining",
@@ -647,8 +646,11 @@
   "screen.mining_history": "Mining History",
   "community.subscribe_body": "Subscribe to the following links to get the latest news and updates directly from the Verus Coin community.",
   "miner_setting.list_header": "Miner Settings",
-  "miner.start": "Start",
-  "miner.view_status": "View status",
+  "miner.start": "START",
+  "miner.view_status": "VIEW STATUS",
   "miner.initializing": "Initializing ...",
-  "miner.stop_mining": ">>>  Stop mining"
+  "miner.stop_mining": ">>>  STOP MINING",
+  "history.session_untitled": "Untitled session",
+  "history.started": "Started",
+  "miner_setting.add_monitoring_tooltip": "Add monitoring server"
 }

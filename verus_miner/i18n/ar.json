@@ -216,7 +216,6 @@
   "miner_setting.qr_share": "مشاركة",
   "miner_setting.qr_share_body": "هذا إعداد المُعدِّن. يمكنك مسحه واستخدامه على جهاز آخر.\n\n",
   "miner_setting.set_as_default": "تعيين كافتراضي",
-  "miner_setting.add": "إضافة",
   "miner_setting.temperature_control": "التحكم في الحرارة",
   "miner_setting.charge_control": "التحكم في الشحن",
   "miner_setting.temperature_threshold": "حد الحرارة",
@@ -650,5 +649,8 @@
   "miner.start": "ابدأ",
   "miner.view_status": "عرض الحالة",
   "miner.initializing": "جارٍ التهيئة…",
-  "miner.stop_mining": ">>>    إيقاف التعدين"
+  "miner.stop_mining": ">>>    إيقاف التعدين",
+  "history.session_untitled": "Untitled session",
+  "history.started": "Started",
+  "miner_setting.add_monitoring_tooltip": "Add monitoring server"
 }

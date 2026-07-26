@@ -216,7 +216,6 @@
   "miner_setting.qr_share": "分享",
   "miner_setting.qr_share_body": "这是你的矿工设置。可扫描后在其他设备上使用。\n\n",
   "miner_setting.set_as_default": "设为默认",
-  "miner_setting.add": "添加",
   "miner_setting.temperature_control": "温度控制",
   "miner_setting.charge_control": "电量控制",
   "miner_setting.temperature_threshold": "温度阈值",
@@ -650,5 +649,8 @@
   "miner.start": "开始",
   "miner.view_status": "查看状态",
   "miner.initializing": "初始化中…",
-  "miner.stop_mining": ">>>    停止挖矿"
+  "miner.stop_mining": ">>>    停止挖矿",
+  "history.session_untitled": "Untitled session",
+  "history.started": "Started",
+  "miner_setting.add_monitoring_tooltip": "Add monitoring server"
 }

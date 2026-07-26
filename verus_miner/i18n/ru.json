@@ -216,7 +216,6 @@
   "miner_setting.qr_share": "Поделиться",
   "miner_setting.qr_share_body": "Это настройка майнера. Можно отсканировать и использовать на другом устройстве.\n\n",
   "miner_setting.set_as_default": "Сделать по умолчанию",
-  "miner_setting.add": "добавить",
   "miner_setting.temperature_control": "КОНТРОЛЬ ТЕМПЕРАТУРЫ",
   "miner_setting.charge_control": "КОНТРОЛЬ ЗАРЯДА",
   "miner_setting.temperature_threshold": "Порог температуры",
@@ -650,5 +649,8 @@
   "miner.start": "СТАРТ",
   "miner.view_status": "СТАТУС",
   "miner.initializing": "ИНИЦИАЛИЗАЦИЯ…",
-  "miner.stop_mining": ">>>    ОСТАНОВИТЬ МАЙНИНГ"
+  "miner.stop_mining": ">>>    ОСТАНОВИТЬ МАЙНИНГ",
+  "history.session_untitled": "Untitled session",
+  "history.started": "Started",
+  "miner_setting.add_monitoring_tooltip": "Add monitoring server"
 }

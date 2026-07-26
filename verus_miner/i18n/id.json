@@ -216,7 +216,6 @@
   "miner_setting.qr_share": "Bagikan",
   "miner_setting.qr_share_body": "Ini pengaturan miner Anda. Anda dapat memindainya dan menggunakannya di perangkat lain.\n\n",
   "miner_setting.set_as_default": "Jadikan default",
-  "miner_setting.add": "tambah",
   "miner_setting.temperature_control": "Kontrol suhu",
   "miner_setting.charge_control": "Kontrol daya",
   "miner_setting.temperature_threshold": "Suhu Threshold",
@@ -650,5 +649,8 @@
   "miner.start": "MULAI",
   "miner.view_status": "LIHAT STATUS",
   "miner.initializing": "MENYIAPKAN …",
-  "miner.stop_mining": ">>>    HENTIKAN MINING"
+  "miner.stop_mining": ">>>    HENTIKAN MINING",
+  "history.session_untitled": "Untitled session",
+  "history.started": "Started",
+  "miner_setting.add_monitoring_tooltip": "Add monitoring server"
 }

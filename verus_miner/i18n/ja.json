@@ -216,7 +216,6 @@
   "miner_setting.qr_share": "共有",
   "miner_setting.qr_share_body": "これはマイナー設定です。スキャンして別の端末で使えます。\n\n",
   "miner_setting.set_as_default": "既定に設定",
-  "miner_setting.add": "追加",
   "miner_setting.temperature_control": "温度制御",
   "miner_setting.charge_control": "充電制御",
   "miner_setting.temperature_threshold": "温度しきい値",
@@ -650,5 +649,8 @@
   "miner.start": "開始",
   "miner.view_status": "ステータス表示",
   "miner.initializing": "初期化中…",
-  "miner.stop_mining": ">>>    マイニング停止"
+  "miner.stop_mining": ">>>    マイニング停止",
+  "history.session_untitled": "Untitled session",
+  "history.started": "Started",
+  "miner_setting.add_monitoring_tooltip": "Add monitoring server"
 }
