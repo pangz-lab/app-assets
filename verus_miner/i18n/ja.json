@@ -654,5 +654,9 @@
   "history.started": "Started",
   "miner_setting.add_monitoring_tooltip": "Add monitoring server",
   "time.pattern_long": "y/MM/dd(EEE) HH:mm:ss",
-  "time.pattern_short": "y/MM/dd HH:mm"
+  "time.pattern_short": "y/MM/dd HH:mm",
+  "miner_setting.cpu_affinity_enable": "Use CPU affinity",
+  "miner_setting.cpu_affinity_enable_sub": "Pin mining threads to selected cores (--cpu-affinity). Available after CPU topology is known.",
+  "miner_setting.cpu_affinity_performance_locked": "Performance profile controls CPU affinity (locked).",
+  "miner_setting.cpu_affinity_need_topology": "Probe CPU topology first to enable affinity."
 }
