@@ -670,5 +670,9 @@
   "miner_setting.cpu_affinity_choice_little": "Малые ядра",
   "miner.operation_countdown_hint": "Назад нельзя. Отмените таймер, запустите майнер сейчас или дождитесь окончания.",
   "miner.online_status_sent": "Онлайн-статус отправлен",
-  "miner.run_miner_now": "ЗАПУСТИТЬ МАЙНЕР"
+  "miner.run_miner_now": "ЗАПУСТИТЬ МАЙНЕР",
+  "history.delete_session": "Удалить историю",
+  "history.delete_session_confirm": "Удалить эту сессию майнинга и все её записи?",
+  "history.delete_session_done": "Сессия истории удалена",
+  "history.delete_session_blocked": "Нельзя удалить активную сессию во время майнинга."
 }

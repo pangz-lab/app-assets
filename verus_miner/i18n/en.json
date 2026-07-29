@@ -675,5 +675,9 @@
   "general.monitor_freq_5m_locked": "5 minutes (Premium)",
   "miner.operation_countdown_hint": "You cannot go back from this screen. Cancel the timer, run the miner now, or wait for it to finish.",
   "miner.online_status_sent": "Online status sent",
-  "miner.run_miner_now": "RUN MINER"
+  "miner.run_miner_now": "RUN MINER",
+  "history.delete_session": "Delete history",
+  "history.delete_session_confirm": "Delete this mining session and all of its samples?",
+  "history.delete_session_done": "History session deleted",
+  "history.delete_session_blocked": "Cannot delete the active mining session while mining is running."
 }

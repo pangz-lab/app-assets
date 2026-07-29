@@ -670,5 +670,9 @@
   "miner_setting.cpu_affinity_choice_little": "Małe rdzenie",
   "miner.operation_countdown_hint": "Nie możesz wrócić. Anuluj timer, uruchom miner teraz albo poczekaj.",
   "miner.online_status_sent": "Wysłano status online",
-  "miner.run_miner_now": "URUCHOM MINER"
+  "miner.run_miner_now": "URUCHOM MINER",
+  "history.delete_session": "Usuń historię",
+  "history.delete_session_confirm": "Usunąć tę sesję kopania i wszystkie próbki?",
+  "history.delete_session_done": "Sesja historii usunięta",
+  "history.delete_session_blocked": "Nie można usunąć aktywnej sesji podczas kopania."
 }

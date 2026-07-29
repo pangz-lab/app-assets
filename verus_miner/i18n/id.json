@@ -670,5 +670,9 @@
   "miner_setting.cpu_affinity_choice_little": "Inti kecil",
   "miner.operation_countdown_hint": "Tidak bisa kembali. Batalkan timer, jalankan miner sekarang, atau tunggu selesai.",
   "miner.online_status_sent": "Status online terkirim",
-  "miner.run_miner_now": "JALANKAN MINER"
+  "miner.run_miner_now": "JALANKAN MINER",
+  "history.delete_session": "Hapus riwayat",
+  "history.delete_session_confirm": "Hapus sesi penambangan ini beserta semua sampelnya?",
+  "history.delete_session_done": "Sesi riwayat dihapus",
+  "history.delete_session_blocked": "Tidak dapat menghapus sesi penambangan aktif saat penambangan berjalan."
 }

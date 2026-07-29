@@ -670,5 +670,9 @@
   "miner_setting.cpu_affinity_choice_little": "高効率コア",
   "miner.operation_countdown_hint": "この画面から戻ることはできません。タイマーをキャンセル、今すぐマイナーを開始、または終了を待ってください。",
   "miner.online_status_sent": "オンラインステータスを送信しました",
-  "miner.run_miner_now": "マイナーを開始"
+  "miner.run_miner_now": "マイナーを開始",
+  "history.delete_session": "履歴を削除",
+  "history.delete_session_confirm": "このマイニングセッションとすべてのサンプルを削除しますか？",
+  "history.delete_session_done": "履歴セッションを削除しました",
+  "history.delete_session_blocked": "マイニング中はアクティブなセッションを削除できません。"
 }

@@ -670,5 +670,9 @@
   "miner_setting.cpu_affinity_choice_little": "الأنوية الصغيرة",
   "miner.operation_countdown_hint": "لا يمكن الرجوع. ألغِ المؤقت أو شغّل المعدّن الآن أو انتظر الانتهاء.",
   "miner.online_status_sent": "تم إرسال الحالة عبر الإنترنت",
-  "miner.run_miner_now": "تشغيل المعدّن"
+  "miner.run_miner_now": "تشغيل المعدّن",
+  "history.delete_session": "حذف السجل",
+  "history.delete_session_confirm": "حذف جلسة التعدين هذه وجميع عيناتها؟",
+  "history.delete_session_done": "تم حذف جلسة السجل",
+  "history.delete_session_blocked": "لا يمكن حذف الجلسة النشطة أثناء التعدين."
 }

@@ -670,5 +670,9 @@
   "miner_setting.cpu_affinity_choice_little": "Kleine Kerne",
   "miner.operation_countdown_hint": "Zurück ist nicht möglich. Timer abbrechen, Miner jetzt starten oder warten.",
   "miner.online_status_sent": "Online-Status gesendet",
-  "miner.run_miner_now": "MINER STARTEN"
+  "miner.run_miner_now": "MINER STARTEN",
+  "history.delete_session": "Verlauf löschen",
+  "history.delete_session_confirm": "Diese Mining-Sitzung und alle Proben löschen?",
+  "history.delete_session_done": "Verlaufssitzung gelöscht",
+  "history.delete_session_blocked": "Die aktive Mining-Sitzung kann während des Minings nicht gelöscht werden."
 }

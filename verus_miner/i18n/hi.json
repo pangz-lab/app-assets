@@ -670,5 +670,9 @@
   "miner_setting.cpu_affinity_choice_little": "छोटे कोर",
   "miner.operation_countdown_hint": "वापस नहीं जा सकते। टाइमर रद्द करें, अभी माइनर चलाएँ, या समाप्त होने तक प्रतीक्षा करें।",
   "miner.online_status_sent": "ऑनलाइन स्थिति भेजी गई",
-  "miner.run_miner_now": "माइनर चलाएँ"
+  "miner.run_miner_now": "माइनर चलाएँ",
+  "history.delete_session": "इतिहास हटाएँ",
+  "history.delete_session_confirm": "इस माइनिंग सत्र और इसके सभी नमूने हटाएँ?",
+  "history.delete_session_done": "इतिहास सत्र हटा दिया गया",
+  "history.delete_session_blocked": "माइनिंग चलते समय सक्रिय सत्र नहीं हटाया जा सकता।"
 }

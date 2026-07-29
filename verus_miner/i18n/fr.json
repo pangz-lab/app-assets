@@ -670,5 +670,9 @@
   "miner_setting.cpu_affinity_choice_little": "Petits cœurs",
   "miner.operation_countdown_hint": "Retour impossible. Annulez le minuteur, lancez le mineur maintenant ou attendez la fin.",
   "miner.online_status_sent": "Statut en ligne envoyé",
-  "miner.run_miner_now": "LANCER LE MINEUR"
+  "miner.run_miner_now": "LANCER LE MINEUR",
+  "history.delete_session": "Supprimer l'historique",
+  "history.delete_session_confirm": "Supprimer cette session de minage et tous ses échantillons ?",
+  "history.delete_session_done": "Session d'historique supprimée",
+  "history.delete_session_blocked": "Impossible de supprimer la session active pendant le minage."
 }

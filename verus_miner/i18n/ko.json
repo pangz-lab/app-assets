@@ -670,5 +670,9 @@
   "miner_setting.cpu_affinity_choice_little": "효율 코어",
   "miner.operation_countdown_hint": "뒤로 갈 수 없습니다. 타이머 취소, 지금 마이너 시작, 또는 종료 대기.",
   "miner.online_status_sent": "온라인 상태 전송됨",
-  "miner.run_miner_now": "마이너 시작"
+  "miner.run_miner_now": "마이너 시작",
+  "history.delete_session": "기록 삭제",
+  "history.delete_session_confirm": "이 마이닝 세션과 모든 샘플을 삭제할까요?",
+  "history.delete_session_done": "기록 세션이 삭제되었습니다",
+  "history.delete_session_blocked": "마이닝 중에는 활성 세션을 삭제할 수 없습니다."
 }

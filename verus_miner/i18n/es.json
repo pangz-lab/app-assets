@@ -670,5 +670,9 @@
   "miner_setting.cpu_affinity_choice_little": "Núcleos pequeños",
   "miner.operation_countdown_hint": "No puedes volver atrás. Cancela el temporizador, inicia el minero ahora o espera a que termine.",
   "miner.online_status_sent": "Estado en línea enviado",
-  "miner.run_miner_now": "INICIAR MINERO"
+  "miner.run_miner_now": "INICIAR MINERO",
+  "history.delete_session": "Eliminar historial",
+  "history.delete_session_confirm": "¿Eliminar esta sesión de minería y todas sus muestras?",
+  "history.delete_session_done": "Sesión de historial eliminada",
+  "history.delete_session_blocked": "No se puede eliminar la sesión activa mientras se está minando."
 }

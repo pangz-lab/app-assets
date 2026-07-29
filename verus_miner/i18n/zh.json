@@ -670,5 +670,9 @@
   "miner_setting.cpu_affinity_choice_little": "小核",
   "miner.operation_countdown_hint": "此界面无法返回。可取消计时、立即开始挖矿，或等待结束。",
   "miner.online_status_sent": "已发送在线状态",
-  "miner.run_miner_now": "立即开始挖矿"
+  "miner.run_miner_now": "立即开始挖矿",
+  "history.delete_session": "删除历史",
+  "history.delete_session_confirm": "删除此挖矿会话及其所有采样？",
+  "history.delete_session_done": "历史会话已删除",
+  "history.delete_session_blocked": "挖矿进行中时无法删除当前会话。"
 }
