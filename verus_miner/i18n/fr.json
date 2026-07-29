@@ -319,7 +319,7 @@
   "history.range_custom": "Personnalisé",
   "history.range_empty": "Aucun échantillon dans cette plage. Essayez une fenêtre plus large.",
   "general.mining_section": "Minage",
-  "general.verusmonitor": "VerusMonitor",
+  "general.verusmonitor": "MyVerusMiners",
   "general.history": "Historique",
   "general.history_off": "Pas d’historique",
   "general.history_on": "Enregistrer mining history",
@@ -501,8 +501,8 @@
   "miner.cancel_countdown_reconnect": "Annuler arrête uniquement le minuteur. Le minage ne démarrera pas automatiquement — relancez le mineur pour vous reconnecter au serveur de surveillance.",
   "miner.cancel_countdown_shutdown": "Annuler arrête le minuteur et annule l’arrêt programmé. Le minage ne démarrera pas automatiquement.",
   "miner.cancel_countdown_manual": "Annuler arrête uniquement le minuteur. Le minage ne démarrera pas automatiquement — relancez le mineur manuellement.",
-  "miner.open_verusmonitor": "Ouvrir VerusMonitor",
-  "miner.open_verusmonitor_body": "Un navigateur ouvrira le site VerusMonitor.",
+  "miner.open_verusmonitor": "Ouvrir MyVerusMiners",
+  "miner.open_verusmonitor_body": "Un navigateur ouvrira le site MyVerusMiners.",
   "miner.live_estimate": "estimation en direct",
   "miner.last_accepted": "dernier accepté",
   "miner.live_estimate_header": "Estimation en direct",
@@ -581,7 +581,7 @@
   "tools.verusbox_download": "VerusBox Télécharger",
   "tools.verusminer_help": "Aide VerusMiner",
   "tools.verusbox": "VerusBox",
-  "tools.verusmonitor": "VerusMonitor",
+  "tools.verusmonitor": "MyVerusMiners",
   "tools.quickstart": "Démarrage rapide",
   "tools.guides": "Guides d’aide",
   "tools.monitoring": "Surveillance",
@@ -668,6 +668,7 @@
   "miner_setting.cpu_affinity_choice_full": "Appareil entier",
   "miner_setting.cpu_affinity_choice_big": "Gros cœurs",
   "miner_setting.cpu_affinity_choice_little": "Petits cœurs",
-  "miner.operation_countdown_hint": "Vous ne pouvez pas revenir en arrière. Annulez le minuteur ou attendez la fin.",
-  "miner.online_status_sent": "Statut en ligne envoyé"
+  "miner.operation_countdown_hint": "Retour impossible. Annulez le minuteur, lancez le mineur maintenant ou attendez la fin.",
+  "miner.online_status_sent": "Statut en ligne envoyé",
+  "miner.run_miner_now": "LANCER LE MINEUR"
 }

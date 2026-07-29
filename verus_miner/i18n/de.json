@@ -319,7 +319,7 @@
   "history.range_custom": "Benutzerdefiniert",
   "history.range_empty": "Keine Proben in diesem Zeitraum. Größeres Fenster versuchen.",
   "general.mining_section": "Minen",
-  "general.verusmonitor": "VerusMonitor",
+  "general.verusmonitor": "MyVerusMiners",
   "general.history": "Verlauf",
   "general.history_off": "Kein Verlauf",
   "general.history_on": "Speichern mining history",
@@ -501,8 +501,8 @@
   "miner.cancel_countdown_reconnect": "Abbrechen stoppt nur den Timer. Mining startet nicht automatisch — starte den Miner erneut, um den Monitoring-Server zu verbinden.",
   "miner.cancel_countdown_shutdown": "Abbrechen stoppt den Timer und die geplante Abschaltung. Mining wird nicht automatisch gestartet.",
   "miner.cancel_countdown_manual": "Abbrechen stoppt nur den Timer. Mining startet nicht automatisch — starte den Miner manuell, wenn du bereit bist.",
-  "miner.open_verusmonitor": "Öffnen VerusMonitor",
-  "miner.open_verusmonitor_body": "Ein Browser öffnet die VerusMonitor-Website.",
+  "miner.open_verusmonitor": "MyVerusMiners öffnen",
+  "miner.open_verusmonitor_body": "Ein Browser öffnet die MyVerusMiners-Website.",
   "miner.live_estimate": "Live-Schätzung",
   "miner.last_accepted": "zuletzt akzeptiert",
   "miner.live_estimate_header": "Live-Schätzung",
@@ -581,7 +581,7 @@
   "tools.verusbox_download": "VerusBox Herunterladen",
   "tools.verusminer_help": "VerusMiner Hilfe",
   "tools.verusbox": "VerusBox",
-  "tools.verusmonitor": "VerusMonitor",
+  "tools.verusmonitor": "MyVerusMiners",
   "tools.quickstart": "Schnellstart",
   "tools.guides": "Anleitungen",
   "tools.monitoring": "Überwachung",
@@ -668,6 +668,7 @@
   "miner_setting.cpu_affinity_choice_full": "Gesamtes Gerät",
   "miner_setting.cpu_affinity_choice_big": "Große Kerne",
   "miner_setting.cpu_affinity_choice_little": "Kleine Kerne",
-  "miner.operation_countdown_hint": "Zurück ist hier nicht möglich. Timer abbrechen oder warten.",
-  "miner.online_status_sent": "Online-Status gesendet"
+  "miner.operation_countdown_hint": "Zurück ist nicht möglich. Timer abbrechen, Miner jetzt starten oder warten.",
+  "miner.online_status_sent": "Online-Status gesendet",
+  "miner.run_miner_now": "MINER STARTEN"
 }

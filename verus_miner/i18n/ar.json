@@ -319,7 +319,7 @@
   "history.range_custom": "مخصص",
   "history.range_empty": "لا عيّنات في هذا النطاق الزمني. جرّب نافذة أوسع.",
   "general.mining_section": "التعدين",
-  "general.verusmonitor": "VerusMonitor",
+  "general.verusmonitor": "MyVerusMiners",
   "general.history": "السجل",
   "general.history_off": "بدون سجل",
   "general.history_on": "حفظ سجل التعدين",
@@ -501,8 +501,8 @@
   "miner.cancel_countdown_reconnect": "الإلغاء يوقف المؤقت فقط. لن يبدأ التعدين تلقائيًا — أعد تشغيل المعدّن للاتصال بخادم المراقبة.",
   "miner.cancel_countdown_shutdown": "الإلغاء يوقف المؤقت ويلغي الإيقاف المجدول. لن يبدأ التعدين تلقائيًا.",
   "miner.cancel_countdown_manual": "الإلغاء يوقف المؤقت فقط. لن يبدأ التعدين تلقائيًا — ابدأ المعدّن يدويًا عندما تكون جاهزًا.",
-  "miner.open_verusmonitor": "فتح VerusMonitor",
-  "miner.open_verusmonitor_body": "سيُفتح المتصفح وينقلك إلى موقع VerusMonitor.",
+  "miner.open_verusmonitor": "فتح MyVerusMiners",
+  "miner.open_verusmonitor_body": "سيُفتح المتصفح وينقلك إلى موقع MyVerusMiners.",
   "miner.live_estimate": "تقدير مباشر",
   "miner.last_accepted": "آخر مقبول",
   "miner.live_estimate_header": "تقدير مباشر",
@@ -581,7 +581,7 @@
   "tools.verusbox_download": "تنزيل VerusBox",
   "tools.verusminer_help": "مساعدة VerusMiner",
   "tools.verusbox": "VerusBox",
-  "tools.verusmonitor": "VerusMonitor",
+  "tools.verusmonitor": "MyVerusMiners",
   "tools.quickstart": "البدء السريع",
   "tools.guides": "الأدلة",
   "tools.monitoring": "المراقبة",
@@ -668,6 +668,7 @@
   "miner_setting.cpu_affinity_choice_full": "الجهاز بالكامل",
   "miner_setting.cpu_affinity_choice_big": "الأنوية الكبيرة",
   "miner_setting.cpu_affinity_choice_little": "الأنوية الصغيرة",
-  "miner.operation_countdown_hint": "لا يمكنك الرجوع من هذه الشاشة. ألغِ المؤقت أو انتظر حتى ينتهي.",
-  "miner.online_status_sent": "تم إرسال الحالة عبر الإنترنت"
+  "miner.operation_countdown_hint": "لا يمكن الرجوع. ألغِ المؤقت أو شغّل المعدّن الآن أو انتظر الانتهاء.",
+  "miner.online_status_sent": "تم إرسال الحالة عبر الإنترنت",
+  "miner.run_miner_now": "تشغيل المعدّن"
 }

@@ -319,7 +319,7 @@
   "history.range_custom": "कस्टम",
   "history.range_empty": "इस तिथि सीमा में कोई नमूने नहीं। व्यापक विंडो आज़माएँ।",
   "general.mining_section": "माइनिंग",
-  "general.verusmonitor": "VerusMonitor",
+  "general.verusmonitor": "MyVerusMiners",
   "general.history": "इतिहास",
   "general.history_off": "कोई इतिहास नहीं",
   "general.history_on": "माइनिंग इतिहास सहेजें",
@@ -501,8 +501,8 @@
   "miner.cancel_countdown_reconnect": "रद्द करने से केवल टाइमर रुकता है। माइनिंग अपने आप शुरू नहीं होगी — मॉनिटरिंग सर्वर से फिर जुड़ने के लिए माइनर फिर से शुरू करें।",
   "miner.cancel_countdown_shutdown": "रद्द करने से टाइमर रुकता है और निर्धारित शटडाउन रद्द होता है। माइनिंग अपने आप शुरू नहीं होगी।",
   "miner.cancel_countdown_manual": "रद्द करने से केवल टाइमर रुकता है। माइनिंग अपने आप शुरू नहीं होगी — तैयार होने पर माइनर मैन्युअल शुरू करें।",
-  "miner.open_verusmonitor": "VerusMonitor खोलें",
-  "miner.open_verusmonitor_body": "ब्राउज़र खुलेगा और VerusMonitor वेबसाइट पर जाएगा।",
+  "miner.open_verusmonitor": "MyVerusMiners खोलें",
+  "miner.open_verusmonitor_body": "ब्राउज़र खुलेगा और MyVerusMiners वेबसाइट पर जाएगा।",
   "miner.live_estimate": "लाइव अनुमान",
   "miner.last_accepted": "अंतिम स्वीकृत",
   "miner.live_estimate_header": "लाइव अनुमान",
@@ -581,7 +581,7 @@
   "tools.verusbox_download": "VerusBox डाउनलोड",
   "tools.verusminer_help": "VerusMiner सहायता",
   "tools.verusbox": "VerusBox",
-  "tools.verusmonitor": "VerusMonitor",
+  "tools.verusmonitor": "MyVerusMiners",
   "tools.quickstart": "क्विकस्टार्ट",
   "tools.guides": "गाइड",
   "tools.monitoring": "मॉनिटरिंग",
@@ -668,6 +668,7 @@
   "miner_setting.cpu_affinity_choice_full": "पूरा डिवाइस",
   "miner_setting.cpu_affinity_choice_big": "बड़े कोर",
   "miner_setting.cpu_affinity_choice_little": "छोटे कोर",
-  "miner.operation_countdown_hint": "इस स्क्रीन से वापस नहीं जा सकते। टाइमर रद्द करें या समाप्त होने तक प्रतीक्षा करें।",
-  "miner.online_status_sent": "ऑनलाइन स्थिति भेजी गई"
+  "miner.operation_countdown_hint": "वापस नहीं जा सकते। टाइमर रद्द करें, अभी माइनर चलाएँ, या समाप्त होने तक प्रतीक्षा करें।",
+  "miner.online_status_sent": "ऑनलाइन स्थिति भेजी गई",
+  "miner.run_miner_now": "माइनर चलाएँ"
 }

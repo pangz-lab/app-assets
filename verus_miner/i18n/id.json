@@ -319,7 +319,7 @@
   "history.range_custom": "Kustom",
   "history.range_empty": "Tidak ada sampel di rentang tanggal ini. Coba jendela yang lebih lebar.",
   "general.mining_section": "Penambangan",
-  "general.verusmonitor": "VerusMonitor",
+  "general.verusmonitor": "MyVerusMiners",
   "general.history": "Riwayat",
   "general.history_off": "Tanpa riwayat",
   "general.history_on": "Simpan mining history",
@@ -501,8 +501,8 @@
   "miner.cancel_countdown_reconnect": "Batal hanya menghentikan timer. Penambangan tidak dimulai otomatis — mulai miner lagi untuk terhubung ke server pemantauan.",
   "miner.cancel_countdown_shutdown": "Batal menghentikan timer dan membatalkan penjadwalan shutdown. Penambangan tidak dimulai otomatis.",
   "miner.cancel_countdown_manual": "Batal hanya menghentikan timer. Penambangan tidak dimulai otomatis — mulai miner secara manual saat siap.",
-  "miner.open_verusmonitor": "Buka VerusMonitor",
-  "miner.open_verusmonitor_body": "Browser akan membuka situs VerusMonitor.",
+  "miner.open_verusmonitor": "Buka MyVerusMiners",
+  "miner.open_verusmonitor_body": "Browser akan membuka situs MyVerusMiners.",
   "miner.live_estimate": "perkiraan langsung",
   "miner.last_accepted": "terakhir diterima",
   "miner.live_estimate_header": "Estimasi langsung",
@@ -581,7 +581,7 @@
   "tools.verusbox_download": "VerusBox Unduh",
   "tools.verusminer_help": "Bantuan VerusMiner",
   "tools.verusbox": "VerusBox",
-  "tools.verusmonitor": "VerusMonitor",
+  "tools.verusmonitor": "MyVerusMiners",
   "tools.quickstart": "Mulai cepat",
   "tools.guides": "Panduan",
   "tools.monitoring": "Pemantauan",
@@ -668,6 +668,7 @@
   "miner_setting.cpu_affinity_choice_full": "Seluruh perangkat",
   "miner_setting.cpu_affinity_choice_big": "Inti besar",
   "miner_setting.cpu_affinity_choice_little": "Inti kecil",
-  "miner.operation_countdown_hint": "Anda tidak dapat kembali dari layar ini. Batalkan timer, atau tunggu hingga selesai.",
-  "miner.online_status_sent": "Status online terkirim"
+  "miner.operation_countdown_hint": "Tidak bisa kembali. Batalkan timer, jalankan miner sekarang, atau tunggu selesai.",
+  "miner.online_status_sent": "Status online terkirim",
+  "miner.run_miner_now": "JALANKAN MINER"
 }

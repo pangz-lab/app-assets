@@ -673,6 +673,7 @@
   "general.monitor_freq_3m_locked": "3 minutes (Premium)",
   "general.monitor_freq_5m": "5 minutes",
   "general.monitor_freq_5m_locked": "5 minutes (Premium)",
-  "miner.operation_countdown_hint": "You cannot go back from this screen. Cancel the timer, or wait for it to finish.",
-  "miner.online_status_sent": "Online status sent"
+  "miner.operation_countdown_hint": "You cannot go back from this screen. Cancel the timer, run the miner now, or wait for it to finish.",
+  "miner.online_status_sent": "Online status sent",
+  "miner.run_miner_now": "RUN MINER"
 }

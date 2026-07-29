@@ -319,7 +319,7 @@
   "history.range_custom": "Własny",
   "history.range_empty": "Brak próbek w tym zakresie dat. Spróbuj szerszego okna.",
   "general.mining_section": "Kopanie",
-  "general.verusmonitor": "VerusMonitor",
+  "general.verusmonitor": "MyVerusMiners",
   "general.history": "Historia",
   "general.history_off": "Brak historii",
   "general.history_on": "Zapisz mining history",
@@ -501,8 +501,8 @@
   "miner.cancel_countdown_reconnect": "Anulowanie tylko zatrzymuje timer. Kopanie nie uruchomi się automatycznie — uruchom miner ponownie, aby połączyć się z serwerem monitoringu.",
   "miner.cancel_countdown_shutdown": "Anulowanie zatrzymuje timer i odwołuje zaplanowane wyłączenie. Kopanie nie uruchomi się automatycznie.",
   "miner.cancel_countdown_manual": "Anulowanie tylko zatrzymuje timer. Kopanie nie uruchomi się automatycznie — uruchom miner ręcznie, gdy będziesz gotowy.",
-  "miner.open_verusmonitor": "Otwórz VerusMonitor",
-  "miner.open_verusmonitor_body": "Otworzy się przeglądarka na stronie VerusMonitor.",
+  "miner.open_verusmonitor": "Otwórz MyVerusMiners",
+  "miner.open_verusmonitor_body": "Otworzy się przeglądarka na stronie MyVerusMiners.",
   "miner.live_estimate": "szacunek na żywo",
   "miner.last_accepted": "ostatnio zaakceptowane",
   "miner.live_estimate_header": "Szacunek na żywo",
@@ -581,7 +581,7 @@
   "tools.verusbox_download": "VerusBox Pobierz",
   "tools.verusminer_help": "Pomoc VerusMiner",
   "tools.verusbox": "VerusBox",
-  "tools.verusmonitor": "VerusMonitor",
+  "tools.verusmonitor": "MyVerusMiners",
   "tools.quickstart": "Szybki start",
   "tools.guides": "Poradniki",
   "tools.monitoring": "Monitorowanie",
@@ -668,6 +668,7 @@
   "miner_setting.cpu_affinity_choice_full": "Całe urządzenie",
   "miner_setting.cpu_affinity_choice_big": "Duże rdzenie",
   "miner_setting.cpu_affinity_choice_little": "Małe rdzenie",
-  "miner.operation_countdown_hint": "Nie możesz wrócić z tego ekranu. Anuluj timer albo poczekaj na koniec.",
-  "miner.online_status_sent": "Wysłano status online"
+  "miner.operation_countdown_hint": "Nie możesz wrócić. Anuluj timer, uruchom miner teraz albo poczekaj.",
+  "miner.online_status_sent": "Wysłano status online",
+  "miner.run_miner_now": "URUCHOM MINER"
 }

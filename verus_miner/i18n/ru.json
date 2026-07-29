@@ -319,7 +319,7 @@
   "history.range_custom": "Свой",
   "history.range_empty": "В этом диапазоне дат нет выборок. Попробуйте более широкий период.",
   "general.mining_section": "Майнинг",
-  "general.verusmonitor": "VerusMonitor",
+  "general.verusmonitor": "MyVerusMiners",
   "general.history": "ИСТОРИЯ",
   "general.history_off": "Без истории",
   "general.history_on": "Сохранять историю майнинга",
@@ -501,8 +501,8 @@
   "miner.cancel_countdown_reconnect": "Отмена только останавливает таймер. Майнинг не запустится автоматически — запустите майнер снова, чтобы подключиться к серверу мониторинга.",
   "miner.cancel_countdown_shutdown": "Отмена останавливает таймер и отменяет запланированное выключение. Майнинг не запустится автоматически.",
   "miner.cancel_countdown_manual": "Отмена только останавливает таймер. Майнинг не запустится автоматически — запустите майнер вручную, когда будете готовы.",
-  "miner.open_verusmonitor": "Открыть VerusMonitor",
-  "miner.open_verusmonitor_body": "Откроется браузер с переходом на сайт VerusMonitor.",
+  "miner.open_verusmonitor": "Открыть MyVerusMiners",
+  "miner.open_verusmonitor_body": "Откроется браузер с переходом на сайт MyVerusMiners.",
   "miner.live_estimate": "текущая оценка",
   "miner.last_accepted": "последний принятый",
   "miner.live_estimate_header": "ТЕКУЩАЯ ОЦЕНКА",
@@ -581,7 +581,7 @@
   "tools.verusbox_download": "Скачать VerusBox",
   "tools.verusminer_help": "Справка VerusMiner",
   "tools.verusbox": "VerusBox",
-  "tools.verusmonitor": "VerusMonitor",
+  "tools.verusmonitor": "MyVerusMiners",
   "tools.quickstart": "Быстрый старт",
   "tools.guides": "Руководства",
   "tools.monitoring": "Мониторинг",
@@ -668,6 +668,7 @@
   "miner_setting.cpu_affinity_choice_full": "Всё устройство",
   "miner_setting.cpu_affinity_choice_big": "Большие ядра",
   "miner_setting.cpu_affinity_choice_little": "Малые ядра",
-  "miner.operation_countdown_hint": "С этого экрана нельзя вернуться назад. Отмените таймер или дождитесь окончания.",
-  "miner.online_status_sent": "Онлайн-статус отправлен"
+  "miner.operation_countdown_hint": "Назад нельзя. Отмените таймер, запустите майнер сейчас или дождитесь окончания.",
+  "miner.online_status_sent": "Онлайн-статус отправлен",
+  "miner.run_miner_now": "ЗАПУСТИТЬ МАЙНЕР"
 }

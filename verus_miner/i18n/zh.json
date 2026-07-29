@@ -319,7 +319,7 @@
   "history.range_custom": "自定义",
   "history.range_empty": "此日期范围内没有样本。请尝试更大的时间范围。",
   "general.mining_section": "挖矿",
-  "general.verusmonitor": "VerusMonitor",
+  "general.verusmonitor": "MyVerusMiners",
   "general.history": "历史记录",
   "general.history_off": "不保存历史",
   "general.history_on": "保存挖矿历史",
@@ -501,8 +501,8 @@
   "miner.cancel_countdown_reconnect": "取消仅停止计时器。不会自动开始挖矿——请重新启动矿工以连接监控服务器。",
   "miner.cancel_countdown_shutdown": "取消将停止计时器并取消计划关机。不会自动开始挖矿。",
   "miner.cancel_countdown_manual": "取消仅停止计时器。不会自动开始挖矿——准备好后请手动启动矿工。",
-  "miner.open_verusmonitor": "打开 VerusMonitor",
-  "miner.open_verusmonitor_body": "将打开浏览器并跳转到 VerusMonitor 网站。",
+  "miner.open_verusmonitor": "打开 MyVerusMiners",
+  "miner.open_verusmonitor_body": "将打开浏览器并跳转到 MyVerusMiners 网站。",
   "miner.live_estimate": "实时估算",
   "miner.last_accepted": "上次接受",
   "miner.live_estimate_header": "实时估算",
@@ -581,7 +581,7 @@
   "tools.verusbox_download": "下载 VerusBox",
   "tools.verusminer_help": "VerusMiner 帮助",
   "tools.verusbox": "VerusBox",
-  "tools.verusmonitor": "VerusMonitor",
+  "tools.verusmonitor": "MyVerusMiners",
   "tools.quickstart": "快速入门",
   "tools.guides": "指南",
   "tools.monitoring": "监控",
@@ -668,6 +668,7 @@
   "miner_setting.cpu_affinity_choice_full": "整机",
   "miner_setting.cpu_affinity_choice_big": "大核",
   "miner_setting.cpu_affinity_choice_little": "小核",
-  "miner.operation_countdown_hint": "此界面无法返回。请取消计时或等待结束。",
-  "miner.online_status_sent": "已发送在线状态"
+  "miner.operation_countdown_hint": "此界面无法返回。可取消计时、立即开始挖矿，或等待结束。",
+  "miner.online_status_sent": "已发送在线状态",
+  "miner.run_miner_now": "立即开始挖矿"
 }

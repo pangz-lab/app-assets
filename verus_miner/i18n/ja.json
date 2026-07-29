@@ -319,7 +319,7 @@
   "history.range_custom": "カスタム",
   "history.range_empty": "この期間にサンプルがありません。より広い範囲を試してください。",
   "general.mining_section": "マイニング",
-  "general.verusmonitor": "VerusMonitor",
+  "general.verusmonitor": "MyVerusMiners",
   "general.history": "履歴",
   "general.history_off": "履歴なし",
   "general.history_on": "マイニング履歴を保存",
@@ -501,8 +501,8 @@
   "miner.cancel_countdown_reconnect": "キャンセルはタイマーのみ停止します。マイニングは自動開始されません。モニタリングサーバーへ再接続するにはマイナーを再度起動してください。",
   "miner.cancel_countdown_shutdown": "キャンセルはタイマーを止め、予定されたシャットダウンを取り消します。マイニングは自動開始されません。",
   "miner.cancel_countdown_manual": "キャンセルはタイマーのみ停止します。マイニングは自動開始されません。準備ができたら手動でマイナーを起動してください。",
-  "miner.open_verusmonitor": "VerusMonitor を開く",
-  "miner.open_verusmonitor_body": "ブラウザを開き、VerusMonitor のサイトへ移動します。",
+  "miner.open_verusmonitor": "MyVerusMiners を開く",
+  "miner.open_verusmonitor_body": "ブラウザを開き、MyVerusMiners のサイトへ移動します。",
   "miner.live_estimate": "ライブ推定",
   "miner.last_accepted": "最終承認",
   "miner.live_estimate_header": "ライブ推定",
@@ -581,7 +581,7 @@
   "tools.verusbox_download": "VerusBox のダウンロード",
   "tools.verusminer_help": "VerusMiner ヘルプ",
   "tools.verusbox": "VerusBox",
-  "tools.verusmonitor": "VerusMonitor",
+  "tools.verusmonitor": "MyVerusMiners",
   "tools.quickstart": "クイックスタート",
   "tools.guides": "ガイド",
   "tools.monitoring": "監視",
@@ -668,6 +668,7 @@
   "miner_setting.cpu_affinity_choice_full": "デバイス全体",
   "miner_setting.cpu_affinity_choice_big": "高性能コア",
   "miner_setting.cpu_affinity_choice_little": "高効率コア",
-  "miner.operation_countdown_hint": "この画面から戻ることはできません。タイマーをキャンセルするか、終了を待ってください。",
-  "miner.online_status_sent": "オンラインステータスを送信しました"
+  "miner.operation_countdown_hint": "この画面から戻ることはできません。タイマーをキャンセル、今すぐマイナーを開始、または終了を待ってください。",
+  "miner.online_status_sent": "オンラインステータスを送信しました",
+  "miner.run_miner_now": "マイナーを開始"
 }
