@@ -737,5 +737,10 @@
   "history.stop_log_missing": "이 세션에 저장된 중지 로그가 없습니다.",
   "history.loading_stop_log": "중지 로그 로드 중…",
   "stop.info_title": "중지 로그 범례",
-  "stop.info_body": "Green = step finished cleanly.\nAmber = slow or soft warning — next start may still work.\nRed = could not fully confirm that resource stopped. Restart the app before the next start for full confidence.\n\nThe log is saved to history when history collection is enabled."
+  "stop.info_body": "Green = step finished cleanly.\nAmber = slow or soft warning — next start may still work.\nRed = could not fully confirm that resource stopped. Restart the app before the next start for full confidence.\n\nThe log is saved to history when history collection is enabled.",
+  "general.monitor_freq_1m": "1분",
+  "general.monitor_freq_1m_locked": "1분(프리미엄)",
+  "general.monitor_freq_3m_locked": "3분(프리미엄)",
+  "general.monitor_freq_5m": "5분",
+  "general.monitor_freq_5m_locked": "5분(프리미엄)"
 }

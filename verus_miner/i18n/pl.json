@@ -737,5 +737,10 @@
   "history.stop_log_missing": "Brak zapisanego dziennika stopu dla tej sesji.",
   "history.loading_stop_log": "Ładowanie dziennika stopu…",
   "stop.info_title": "Legenda dziennika stopu",
-  "stop.info_body": "Green = step finished cleanly.\nAmber = slow or soft warning — next start may still work.\nRed = could not fully confirm that resource stopped. Restart the app before the next start for full confidence.\n\nThe log is saved to history when history collection is enabled."
+  "stop.info_body": "Green = step finished cleanly.\nAmber = slow or soft warning — next start may still work.\nRed = could not fully confirm that resource stopped. Restart the app before the next start for full confidence.\n\nThe log is saved to history when history collection is enabled.",
+  "general.monitor_freq_1m": "1 minuta",
+  "general.monitor_freq_1m_locked": "1 minuta (Premium)",
+  "general.monitor_freq_3m_locked": "3 minuty (Premium)",
+  "general.monitor_freq_5m": "5 minut",
+  "general.monitor_freq_5m_locked": "5 minut (Premium)"
 }

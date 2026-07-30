@@ -737,5 +737,10 @@
   "history.stop_log_missing": "No se guardó un registro de parada para esta sesión.",
   "history.loading_stop_log": "Cargando registro de parada…",
   "stop.info_title": "Leyenda del registro de parada",
-  "stop.info_body": "Green = step finished cleanly.\nAmber = slow or soft warning — next start may still work.\nRed = could not fully confirm that resource stopped. Restart the app before the next start for full confidence.\n\nThe log is saved to history when history collection is enabled."
+  "stop.info_body": "Green = step finished cleanly.\nAmber = slow or soft warning — next start may still work.\nRed = could not fully confirm that resource stopped. Restart the app before the next start for full confidence.\n\nThe log is saved to history when history collection is enabled.",
+  "general.monitor_freq_1m": "1 minuto",
+  "general.monitor_freq_1m_locked": "1 minuto (Premium)",
+  "general.monitor_freq_3m_locked": "3 minutos (Premium)",
+  "general.monitor_freq_5m": "5 minutos",
+  "general.monitor_freq_5m_locked": "5 minutos (Premium)"
 }
