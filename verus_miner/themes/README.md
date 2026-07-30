@@ -45,7 +45,7 @@ Same pattern as `i18n/i18n.json` + `i18n/{lang}.json`.
 | `verus.json` | Verus (default) |
 | `dark.json` | Dark |
 | `pangz.json` | Pangz Lab |
-| `oink.json` | Oink |
+| `oink.json` | 𝙊𝙞𝙣𝙠 |
 | `dudezmobi.json` | Dudezmobi |
 
 Built-in themes always work offline. Remote packs **override** colors for a known theme id.
