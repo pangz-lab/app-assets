@@ -288,7 +288,7 @@
   "language.dropdown_hint_save": "يُطبَّق عند حفظ الإعدادات العامة. أعد تشغيل التطبيق لتحميل الحزمة.",
   "theme.verus": "Verus (افتراضي)",
   "theme.dark": "داكن (رمادي)",
-  "theme.pangz": "Pangz Lab",
+  "theme.pangz": "Pangz",
   "theme.oink": "𝙊𝙞𝙣𝙠 (داكن أحادي)",
   "theme.refresh_packs": "تحديث السمات",
   "theme.refreshing": "جارٍ تحديث كتالوج السمات والحزم…",
@@ -742,5 +742,7 @@
   "general.monitor_freq_1m_locked": "دقيقة واحدة (Premium)",
   "general.monitor_freq_3m_locked": "3 دقائق (Premium)",
   "general.monitor_freq_5m": "5 دقائق",
-  "general.monitor_freq_5m_locked": "5 دقائق (Premium)"
+  "general.monitor_freq_5m_locked": "5 دقائق (Premium)",
+  "history.setting_mining_power": "Mining power",
+  "history.setting_cpu_affinity": "CPU affinity"
 }

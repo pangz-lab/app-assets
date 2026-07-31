@@ -288,7 +288,7 @@
   "language.dropdown_hint_save": "保存通用设置后生效。需重启应用以加载语言包。",
   "theme.verus": "Verus（默认）",
   "theme.dark": "深色（灰）",
-  "theme.pangz": "Pangz Lab",
+  "theme.pangz": "Pangz",
   "theme.oink": "𝙊𝙞𝙣𝙠（单色深色）",
   "theme.refresh_packs": "刷新主题",
   "theme.refreshing": "正在刷新主题目录与包…",
@@ -742,5 +742,7 @@
   "general.monitor_freq_1m_locked": "1 分钟（高级版）",
   "general.monitor_freq_3m_locked": "3 分钟（高级版）",
   "general.monitor_freq_5m": "5 分钟",
-  "general.monitor_freq_5m_locked": "5 分钟（高级版）"
+  "general.monitor_freq_5m_locked": "5 分钟（高级版）",
+  "history.setting_mining_power": "Mining power",
+  "history.setting_cpu_affinity": "CPU affinity"
 }

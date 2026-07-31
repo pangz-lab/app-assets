@@ -288,7 +288,7 @@
   "language.dropdown_hint_save": "सामान्य सेटिंग सहेजने पर लागू होता है। पैक लोड करने के लिए ऐप पुनः आरंभ करें।",
   "theme.verus": "Verus (डिफ़ॉल्ट)",
   "theme.dark": "डार्क (ग्रे)",
-  "theme.pangz": "Pangz Lab",
+  "theme.pangz": "Pangz",
   "theme.oink": "𝙊𝙞𝙣𝙠 (मोनो डार्क)",
   "theme.refresh_packs": "थीम रीफ़्रेश करें",
   "theme.refreshing": "थीम कैटलॉग और पैक रीफ़्रेश हो रहे हैं…",
@@ -742,5 +742,7 @@
   "general.monitor_freq_1m_locked": "1 मिनट (Premium)",
   "general.monitor_freq_3m_locked": "3 मिनट (Premium)",
   "general.monitor_freq_5m": "5 मिनट",
-  "general.monitor_freq_5m_locked": "5 मिनट (Premium)"
+  "general.monitor_freq_5m_locked": "5 मिनट (Premium)",
+  "history.setting_mining_power": "Mining power",
+  "history.setting_cpu_affinity": "CPU affinity"
 }

@@ -288,7 +288,7 @@
   "language.dropdown_hint_save": "일반 설정을 저장하면 적용됩니다. 언어 팩 로드를 위해 앱을 다시 시작하세요.",
   "theme.verus": "Verus(기본)",
   "theme.dark": "다크(회색)",
-  "theme.pangz": "Pangz Lab",
+  "theme.pangz": "Pangz",
   "theme.oink": "𝙊𝙞𝙣𝙠(모노 다크)",
   "theme.refresh_packs": "테마 새로고침",
   "theme.refreshing": "테마 목록과 팩을 새로고침하는 중…",
@@ -742,5 +742,7 @@
   "general.monitor_freq_1m_locked": "1분(프리미엄)",
   "general.monitor_freq_3m_locked": "3분(프리미엄)",
   "general.monitor_freq_5m": "5분",
-  "general.monitor_freq_5m_locked": "5분(프리미엄)"
+  "general.monitor_freq_5m_locked": "5분(프리미엄)",
+  "history.setting_mining_power": "Mining power",
+  "history.setting_cpu_affinity": "CPU affinity"
 }

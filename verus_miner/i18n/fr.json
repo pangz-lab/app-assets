@@ -288,7 +288,7 @@
   "language.dropdown_hint_save": "Appliqué à l'enregistrement des réglages généraux. Redémarrez l'app pour charger le pack.",
   "theme.verus": "Verus (par défaut)",
   "theme.dark": "Sombre (gris)",
-  "theme.pangz": "Pangz Lab",
+  "theme.pangz": "Pangz",
   "theme.oink": "𝙊𝙞𝙣𝙠 (mono dark)",
   "theme.refresh_packs": "Actualiser les thèmes",
   "theme.refreshing": "Actualisation du catalogue et des packs de thèmes…",
@@ -742,5 +742,7 @@
   "general.monitor_freq_1m_locked": "1 minute (Premium)",
   "general.monitor_freq_3m_locked": "3 minutes (Premium)",
   "general.monitor_freq_5m": "5 minutes",
-  "general.monitor_freq_5m_locked": "5 minutes (Premium)"
+  "general.monitor_freq_5m_locked": "5 minutes (Premium)",
+  "history.setting_mining_power": "Mining power",
+  "history.setting_cpu_affinity": "CPU affinity"
 }

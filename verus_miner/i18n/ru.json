@@ -288,7 +288,7 @@
   "language.dropdown_hint_save": "Применяется после сохранения общих настроек. Перезапустите приложение, чтобы загрузить пакет.",
   "theme.verus": "Verus (по умолчанию)",
   "theme.dark": "Тёмная (серая)",
-  "theme.pangz": "Pangz Lab",
+  "theme.pangz": "Pangz",
   "theme.oink": "𝙊𝙞𝙣𝙠 (моно тёмная)",
   "theme.refresh_packs": "Обновить темы",
   "theme.refreshing": "Обновление каталога и пакетов тем…",
@@ -742,5 +742,7 @@
   "general.monitor_freq_1m_locked": "1 минута (Premium)",
   "general.monitor_freq_3m_locked": "3 минуты (Premium)",
   "general.monitor_freq_5m": "5 минут",
-  "general.monitor_freq_5m_locked": "5 минут (Premium)"
+  "general.monitor_freq_5m_locked": "5 минут (Premium)",
+  "history.setting_mining_power": "Mining power",
+  "history.setting_cpu_affinity": "CPU affinity"
 }

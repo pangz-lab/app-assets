@@ -288,7 +288,7 @@
   "language.dropdown_hint_save": "Stosowane po zapisaniu ustawień ogólnych. Uruchom ponownie aplikację, aby wczytać pakiet.",
   "theme.verus": "Verus (domyślny)",
   "theme.dark": "Ciemny (szary)",
-  "theme.pangz": "Pangz Lab",
+  "theme.pangz": "Pangz",
   "theme.oink": "𝙊𝙞𝙣𝙠 (mono dark)",
   "theme.refresh_packs": "Odśwież motywy",
   "theme.refreshing": "Odświeżanie katalogu i pakietów motywów…",
@@ -742,5 +742,7 @@
   "general.monitor_freq_1m_locked": "1 minuta (Premium)",
   "general.monitor_freq_3m_locked": "3 minuty (Premium)",
   "general.monitor_freq_5m": "5 minut",
-  "general.monitor_freq_5m_locked": "5 minut (Premium)"
+  "general.monitor_freq_5m_locked": "5 minut (Premium)",
+  "history.setting_mining_power": "Mining power",
+  "history.setting_cpu_affinity": "CPU affinity"
 }

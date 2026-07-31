@@ -288,7 +288,7 @@
   "language.dropdown_hint_save": "Applied when you save general settings. Restart the app to load the pack.",
   "theme.verus": "Verus (default)",
   "theme.dark": "Dark (gray)",
-  "theme.pangz": "Pangz Lab",
+  "theme.pangz": "Pangz",
   "theme.oink": "𝙊𝙞𝙣𝙠",
   "theme.refresh_packs": "Refresh themes",
   "theme.refreshing": "Refreshing theme catalog and packs…",
@@ -742,5 +742,7 @@
   "history.stop_log_missing": "No stop log was saved for this session.",
   "history.loading_stop_log": "Loading stop log…",
   "stop.info_title": "Stop log legend",
-  "stop.info_body": "Green = step finished cleanly.\nAmber = slow or soft warning — next start may still work.\nRed = could not fully confirm that resource stopped. Restart the app before the next start for full confidence.\n\nThe log is saved to history when history collection is enabled."
+  "stop.info_body": "Green = step finished cleanly.\nAmber = slow or soft warning — next start may still work.\nRed = could not fully confirm that resource stopped. Restart the app before the next start for full confidence.\n\nThe log is saved to history when history collection is enabled.",
+  "history.setting_mining_power": "Mining power",
+  "history.setting_cpu_affinity": "CPU affinity"
 }

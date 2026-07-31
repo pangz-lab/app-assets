@@ -288,7 +288,7 @@
   "language.dropdown_hint_save": "Diterapkan saat Anda menyimpan pengaturan umum. Mulai ulang aplikasi untuk memuat paket.",
   "theme.verus": "Verus (default)",
   "theme.dark": "Gelap (abu-abu)",
-  "theme.pangz": "Pangz Lab",
+  "theme.pangz": "Pangz",
   "theme.oink": "𝙊𝙞𝙣𝙠 (mono dark)",
   "theme.refresh_packs": "Segarkan tema",
   "theme.refreshing": "Menyegarkan katalog dan paket tema…",
@@ -742,5 +742,7 @@
   "general.monitor_freq_1m_locked": "1 menit (Premium)",
   "general.monitor_freq_3m_locked": "3 menit (Premium)",
   "general.monitor_freq_5m": "5 menit",
-  "general.monitor_freq_5m_locked": "5 menit (Premium)"
+  "general.monitor_freq_5m_locked": "5 menit (Premium)",
+  "history.setting_mining_power": "Mining power",
+  "history.setting_cpu_affinity": "CPU affinity"
 }

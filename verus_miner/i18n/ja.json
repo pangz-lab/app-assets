@@ -288,7 +288,7 @@
   "language.dropdown_hint_save": "一般設定を保存すると適用されます。パック読込にはアプリ再起動が必要です。",
   "theme.verus": "Verus（既定）",
   "theme.dark": "ダーク（グレー）",
-  "theme.pangz": "Pangz Lab",
+  "theme.pangz": "Pangz",
   "theme.oink": "𝙊𝙞𝙣𝙠（モノトーン暗）",
   "theme.refresh_packs": "テーマを更新",
   "theme.refreshing": "テーマ一覧とパックを更新中…",
@@ -742,5 +742,7 @@
   "general.monitor_freq_1m_locked": "1分（プレミアム）",
   "general.monitor_freq_3m_locked": "3分（プレミアム）",
   "general.monitor_freq_5m": "5分",
-  "general.monitor_freq_5m_locked": "5分（プレミアム）"
+  "general.monitor_freq_5m_locked": "5分（プレミアム）",
+  "history.setting_mining_power": "Mining power",
+  "history.setting_cpu_affinity": "CPU affinity"
 }
