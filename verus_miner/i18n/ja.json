@@ -740,9 +740,14 @@
   "stop.info_body": "Green = step finished cleanly.\nAmber = slow or soft warning — next start may still work.\nRed = could not fully confirm that resource stopped. Restart the app before the next start for full confidence.\n\nThe log is saved to history when history collection is enabled.",
   "general.monitor_freq_1m": "1分",
   "general.monitor_freq_1m_locked": "1分（プレミアム）",
-  "general.monitor_freq_3m_locked": "3分（プレミアム）",
+  "general.monitor_freq_3m_locked": "3分",
   "general.monitor_freq_5m": "5分",
-  "general.monitor_freq_5m_locked": "5分（プレミアム）",
+  "general.monitor_freq_5m_locked": "5分",
   "history.setting_mining_power": "Mining power",
-  "history.setting_cpu_affinity": "CPU affinity"
+  "history.setting_cpu_affinity": "CPU affinity",
+  "monitoring.choice_intro": "別の画面からこのマイナーをどう監視するか選んでください。両方使えます。統計を見る場所に合う方から始めましょう。",
+  "monitoring.verusbox_desc": "VerusBox は自宅ネットワーク（同じ Wi‑Fi/LAN）向けのローカル監視アプリです。採掘状況は近くの VerusBox に送られ、公衆インターネットなしでもプライベートに監視できます。次の画面でホストとポートを設定します。",
+  "monitoring.myverusminers_desc": "MyVerusMiners はオンラインの Web モニター（ブラウザ）です。オンライン監視を有効にすると、この端末がクラウドへ状態を送り、どこからでもサイトで確認できます。自宅外からも見たい場合に適しています。",
+  "monitoring.open_verusbox": "VerusBox を設定",
+  "monitoring.open_myverusminers": "MyVerusMiners を設定"
 }

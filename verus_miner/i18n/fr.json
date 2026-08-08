@@ -740,9 +740,14 @@
   "stop.info_body": "Green = step finished cleanly.\nAmber = slow or soft warning — next start may still work.\nRed = could not fully confirm that resource stopped. Restart the app before the next start for full confidence.\n\nThe log is saved to history when history collection is enabled.",
   "general.monitor_freq_1m": "1 minute",
   "general.monitor_freq_1m_locked": "1 minute (Premium)",
-  "general.monitor_freq_3m_locked": "3 minutes (Premium)",
+  "general.monitor_freq_3m_locked": "3 minutes",
   "general.monitor_freq_5m": "5 minutes",
-  "general.monitor_freq_5m_locked": "5 minutes (Premium)",
+  "general.monitor_freq_5m_locked": "5 minutes",
   "history.setting_mining_power": "Mining power",
-  "history.setting_cpu_affinity": "CPU affinity"
+  "history.setting_cpu_affinity": "CPU affinity",
+  "monitoring.choice_intro": "Choisissez comment surveiller ce mineur depuis un autre écran. Les deux options sont possibles — commencez par celle qui correspond à où vous regarderez les stats.",
+  "monitoring.verusbox_desc": "VerusBox est une appli de supervision locale sur votre réseau domestique (même Wi‑Fi/LAN). L’état de minage est envoyé à un VerusBox proche — utile pour un suivi privé sans internet public. Vous configurez l’hôte et le port ensuite.",
+  "monitoring.myverusminers_desc": "MyVerusMiners est le moniteur web en ligne (navigateur). Avec le suivi en ligne activé, ce téléphone envoie l’état au cloud pour consultation partout. Idéal pour une visibilité hors de votre réseau domestique.",
+  "monitoring.open_verusbox": "Configurer VerusBox",
+  "monitoring.open_myverusminers": "Configurer MyVerusMiners"
 }

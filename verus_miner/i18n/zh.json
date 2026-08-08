@@ -739,10 +739,15 @@
   "stop.info_title": "停止日志图例",
   "stop.info_body": "Green = step finished cleanly.\nAmber = slow or soft warning — next start may still work.\nRed = could not fully confirm that resource stopped. Restart the app before the next start for full confidence.\n\nThe log is saved to history when history collection is enabled.",
   "general.monitor_freq_1m": "1 分钟",
-  "general.monitor_freq_1m_locked": "1 分钟（高级版）",
-  "general.monitor_freq_3m_locked": "3 分钟（高级版）",
+  "general.monitor_freq_1m_locked": "1 分钟（高级）",
+  "general.monitor_freq_3m_locked": "3 分钟",
   "general.monitor_freq_5m": "5 分钟",
-  "general.monitor_freq_5m_locked": "5 分钟（高级版）",
+  "general.monitor_freq_5m_locked": "5 分钟",
   "history.setting_mining_power": "Mining power",
-  "history.setting_cpu_affinity": "CPU affinity"
+  "history.setting_cpu_affinity": "CPU affinity",
+  "monitoring.choice_intro": "选择如何在另一台设备上查看此矿工。两者都可使用——从符合你查看位置的选项开始。",
+  "monitoring.verusbox_desc": "VerusBox 是家用网络（同一 Wi‑Fi/局域网）上的本地监控应用。挖矿状态会发到附近的 VerusBox，适合不依赖公网的私有监控。接下来配置主机与端口。",
+  "monitoring.myverusminers_desc": "MyVerusMiners 是在线网页监控（浏览器）。开启在线监控后，本机将状态上报到云端服务，可在任何地方打开网站查看。适合需要离开家庭网络仍要远程查看的情况。",
+  "monitoring.open_verusbox": "设置 VerusBox",
+  "monitoring.open_myverusminers": "设置 MyVerusMiners"
 }

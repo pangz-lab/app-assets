@@ -670,9 +670,9 @@
   "miner_setting.cpu_affinity_choice_little": "Little cores",
   "general.monitor_freq_1m": "1 minute",
   "general.monitor_freq_1m_locked": "1 minute (Premium)",
-  "general.monitor_freq_3m_locked": "3 minutes (Premium)",
+  "general.monitor_freq_3m_locked": "3 minutes",
   "general.monitor_freq_5m": "5 minutes",
-  "general.monitor_freq_5m_locked": "5 minutes (Premium)",
+  "general.monitor_freq_5m_locked": "5 minutes",
   "miner.operation_countdown_hint": "You cannot go back from this screen. Cancel the timer, run the miner now, or wait for it to finish.",
   "miner.online_status_sent": "Online status sent",
   "miner.run_miner_now": "RUN MINER",
@@ -744,5 +744,10 @@
   "stop.info_title": "Stop log legend",
   "stop.info_body": "Green = step finished cleanly.\nAmber = slow or soft warning — next start may still work.\nRed = could not fully confirm that resource stopped. Restart the app before the next start for full confidence.\n\nThe log is saved to history when history collection is enabled.",
   "history.setting_mining_power": "Mining power",
-  "history.setting_cpu_affinity": "CPU affinity"
+  "history.setting_cpu_affinity": "CPU affinity",
+  "monitoring.choice_intro": "Pick how you want to watch this miner from another screen. You can use both over time — start with the option that matches where you will look at stats.",
+  "monitoring.verusbox_desc": "VerusBox is a local monitoring app on your home network (same Wi‑Fi or LAN). Mining status is sent to a VerusBox device near you — useful for private, offline-friendly monitoring without the public internet. You configure a VerusBox host and port in the next screens.",
+  "monitoring.myverusminers_desc": "MyVerusMiners is the online web monitor (browser). When online monitoring is enabled, this phone posts mining status to the cloud service so you can open the website from anywhere. Best when you want remote visibility outside your home network.",
+  "monitoring.open_verusbox": "Set up VerusBox",
+  "monitoring.open_myverusminers": "Set up MyVerusMiners"
 }
