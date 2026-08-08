@@ -739,15 +739,13 @@
   "stop.info_title": "Legenda log berhenti",
   "stop.info_body": "Green = step finished cleanly.\nAmber = slow or soft warning — next start may still work.\nRed = could not fully confirm that resource stopped. Restart the app before the next start for full confidence.\n\nThe log is saved to history when history collection is enabled.",
   "general.monitor_freq_1m": "1 menit",
-  "general.monitor_freq_1m_locked": "1 minute (Premium)",
-  "general.monitor_freq_3m_locked": "3 minutes",
+  "general.monitor_freq_1m_locked": "1 menit (Premium)",
   "general.monitor_freq_5m": "5 menit",
-  "general.monitor_freq_5m_locked": "5 minutes",
   "history.setting_mining_power": "Mining power",
   "history.setting_cpu_affinity": "CPU affinity",
-  "monitoring.choice_intro": "Pick how you want to watch this miner from another screen. You can use both over time — start with the option that matches where you will look at stats.",
-  "monitoring.verusbox_desc": "VerusBox is a local monitoring app on your home network (same Wi‑Fi or LAN). Mining status is sent to a VerusBox device near you — useful for private, offline-friendly monitoring without the public internet. You configure a VerusBox host and port in the next screens.",
-  "monitoring.myverusminers_desc": "MyVerusMiners is the online web monitor (browser). When online monitoring is enabled, this phone posts mining status to the cloud service so you can open the website from anywhere. Best when you want remote visibility outside your home network.",
-  "monitoring.open_verusbox": "Set up VerusBox",
-  "monitoring.open_myverusminers": "Set up MyVerusMiners"
+  "monitoring.choice_intro": "Pilih cara memantau miner ini dari layar lain. Keduanya bisa dipakai seiring waktu — mulai dari opsi yang cocok dengan tempat Anda melihat statistik.",
+  "monitoring.verusbox_desc": "VerusBox adalah aplikasi pemantauan lokal di jaringan rumah (Wi‑Fi/LAN yang sama). Status penambangan dikirim ke perangkat VerusBox di dekat Anda — cocok untuk pemantauan privat tanpa internet publik. Host dan port dikonfigurasi di layar berikutnya.",
+  "monitoring.myverusminers_desc": "MyVerusMiners adalah monitor web online (browser). Saat pemantauan online aktif, ponsel ini mengirim status ke layanan cloud agar situs bisa dibuka dari mana saja. Terbaik jika Anda ingin visibilitas jarak jauh di luar jaringan rumah.",
+  "monitoring.open_verusbox": "Siapkan VerusBox",
+  "monitoring.open_myverusminers": "Siapkan MyVerusMiners"
 }
