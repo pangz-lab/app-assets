@@ -1,8 +1,8 @@
 {
     "app": {
-        "releasedDate": "2024-02-06T12:00:00",
-        "latestVersion": "5.0.0",
-        "required": false,
+        "releasedDate": "2026-08-16T04:00:00",
+        "latestVersion": "6.0.0",
+        "required": true,
         "changelog": [
             "Wide CPU-specific optimized miner builds (v8a-* catalog)",
             "In-app build recommendation from Device Info / CPU topology",
@@ -180,7 +180,7 @@
             "uri": "https://github.com/pangz-lab/verus_miner-release/releases",
             "published": {
                 "by": "Pangz",
-                "date": "2026-08-09T03:04:00"
+                "date": "2026-08-16T04:00:00"
             }
         }
     ]
