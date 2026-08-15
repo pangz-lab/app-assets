@@ -1,0 +1,54 @@
+{
+    "app": {
+        "releasedDate": "2026-08-15T00:00:00",
+        "latestVersion": "0.1.0",
+        "required": false,
+        "changelog": [
+            "First VerusMiner Desktop Linux build (x86_64)",
+            "Side navigation shell (MVM-style rail)",
+            "Process mining via pangz-verus-miner-desktop engine",
+            "Online monitoring as desktopApp / VerusMinerDesktop",
+            "Dev and prod env profiles for monitoring stack",
+            "Host CPU count via Platform /proc (no Android plugins)"
+        ]
+    },
+    "builds": {
+        "note": "Desktop optimized binary catalog (future). Tags are independent of Android v8a-*.",
+        "catalog": [
+            {
+                "tag": "x86_64",
+                "binaryName": "ccminer-linux-x86_64",
+                "platform": "linux",
+                "arch": "x86_64",
+                "march": "x86-64",
+                "recommendedDefault": true,
+                "description": "Portable Linux x86_64 product binary"
+            }
+        ]
+    },
+    "guides": {
+        "videos": [],
+        "blogs": [],
+        "posts": []
+    },
+    "quickstart": {
+        "uris": {
+            "walletAddressCreationVideo": "https://youtu.be/DxY_ruG0feU"
+        }
+    },
+    "announcements": [
+        {
+            "id": "verusminer-desktop-0-1-0",
+            "source": "Official",
+            "title": "VerusMiner Desktop 0.1.0",
+            "description": "Linux desktop mining app (early). Independent of the Android release channel.",
+            "contentType": "html",
+            "content": "<h1>VerusMiner Desktop 0.1.0</h1><p>Early Linux x86_64 desktop build. Version checks and announcements for this product use <code>app-assets/verus_miner_desktop</code> — not the Android <code>verus_miner</code> assets.</p>",
+            "uri": "https://github.com/pangz-lab/pangz-verus-miner-desktop",
+            "published": {
+                "by": "Pangz",
+                "date": "2026-08-15T00:00:00"
+            }
+        }
+    ]
+}
