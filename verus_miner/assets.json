@@ -16,6 +16,18 @@
             "UI refresh: clearer navigation, onboarding, and metrics"
         ]
     },
+    "appDesktop": {
+        "releasedDate": "2026-08-15T00:00:00",
+        "latestVersion": "0.1.0",
+        "required": false,
+        "changelog": [
+            "First VerusMiner Desktop Linux build (x86_64)",
+            "Side navigation shell (MVM-style rail)",
+            "Process mining via pangz-verus-miner-desktop engine",
+            "Online monitoring as desktopApp / VerusMinerDesktop",
+            "Dev and prod env profiles shared with mobile monitoring stack"
+        ]
+    },
     "guides": {
         "videos": [
             {
