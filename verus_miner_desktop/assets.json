@@ -44,7 +44,7 @@
             "description": "Linux desktop mining app (early). Independent of the Android release channel.",
             "contentType": "html",
             "content": "<h1>VerusMiner Desktop 0.1.0</h1><p>Early Linux x86_64 desktop build. Version checks and announcements for this product use <code>app-assets/verus_miner_desktop</code> — not the Android <code>verus_miner</code> assets.</p>",
-            "uri": "https://github.com/pangz-lab/pangz-verus-miner-desktop",
+            "uri": "https://github.com/pangz-lab/verus_miner_desktop-release",
             "published": {
                 "by": "Pangz",
                 "date": "2026-08-15T00:00:00"
