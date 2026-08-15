@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "fallback": "verus",
+  "themes": [
+    {
+      "id": "verus",
+      "englishName": "Verus",
+      "nativeName": "Verus (default)",
+      "file": "verus.json"
+    },
+    {
+      "id": "dark",
+      "englishName": "Dark",
+      "nativeName": "Dark",
+      "file": "dark.json"
+    },
+    {
+      "id": "pangz",
+      "englishName": "Pangz",
+      "nativeName": "Pangz",
+      "file": "pangz.json"
+    },
+    {
+      "id": "oink",
+      "englishName": "𝙊𝙞𝙣𝙠",
+      "nativeName": "𝙊𝙞𝙣𝙠",
+      "file": "oink.json"
+    },
+    {
+      "id": "dudezmobi",
+      "englishName": "Dudezmobi",
+      "nativeName": "Dudezmobi",
+      "file": "dudezmobi.json"
+    }
+  ]
+}

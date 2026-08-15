@@ -1,0 +1,78 @@
+{
+  "version": 1,
+  "fallback": "en",
+  "languages": [
+    {
+      "code": "en",
+      "englishName": "English",
+      "nativeName": "English",
+      "file": "en.json"
+    },
+    {
+      "code": "es",
+      "englishName": "Spanish",
+      "nativeName": "Español",
+      "file": "es.json"
+    },
+    {
+      "code": "de",
+      "englishName": "German",
+      "nativeName": "Deutsch",
+      "file": "de.json"
+    },
+    {
+      "code": "fr",
+      "englishName": "French",
+      "nativeName": "Français",
+      "file": "fr.json"
+    },
+    {
+      "code": "pl",
+      "englishName": "Polish",
+      "nativeName": "Polski",
+      "file": "pl.json"
+    },
+    {
+      "code": "id",
+      "englishName": "Indonesian",
+      "nativeName": "Bahasa Indonesia",
+      "file": "id.json"
+    },
+    {
+      "code": "zh",
+      "englishName": "Chinese",
+      "nativeName": "中文",
+      "file": "zh.json"
+    },
+    {
+      "code": "ja",
+      "englishName": "Japanese",
+      "nativeName": "日本語",
+      "file": "ja.json"
+    },
+    {
+      "code": "ko",
+      "englishName": "Korean",
+      "nativeName": "한국어",
+      "file": "ko.json"
+    },
+    {
+      "code": "hi",
+      "englishName": "Hindi",
+      "nativeName": "हिन्दी",
+      "file": "hi.json"
+    },
+    {
+      "code": "ru",
+      "englishName": "Russian",
+      "nativeName": "Русский",
+      "file": "ru.json"
+    },
+    {
+      "code": "ar",
+      "englishName": "Arabic",
+      "nativeName": "العربية",
+      "file": "ar.json"
+    }
+  ]
+}
