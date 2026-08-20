@@ -2,7 +2,7 @@
     "app": {
         "releasedDate": "2026-08-16T04:00:00",
         "latestVersion": "6.0.0",
-        "required": true,
+        "required": false,
         "changelog": [
             "Wide CPU-specific optimized miner builds (v8a-* catalog)",
             "In-app build recommendation from Device Info / CPU topology",
